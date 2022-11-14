@@ -1,0 +1,122 @@
+---
+title: "R Notebook"
+output: html_notebook
+---
+
+This is an [R Markdown](http://rmarkdown.rstudio.com) Notebook. When you execute code within the notebook, the results appear beneath the code. 
+
+Try executing this chunk by clicking the *Run* button within the chunk or by placing your cursor inside it and pressing *Ctrl+Shift+Enter*. 
+
+
+Add a new chunk by clicking the *Insert Chunk* button on the toolbar or by pressing *Ctrl+Alt+I*.
+
+When you save the notebook, an HTML file containing the code and output will be saved alongside it (click the *Preview* button or press *Ctrl+Shift+K* to preview the HTML file).
+
+The preview shows you a rendered HTML copy of the contents of the editor. Consequently, unlike *Knit*, *Preview* does not run any R code chunks. Instead, the output of the chunk when it was last run in the editor is displayed.
+```{r}
+data <- read.csv('NaturalDisaster.csv')
+```
+
+```{r}
+View(data)
+head(data)
+```
+
+```{r}
+tail(data)
+```
+
+```{r}
+disaster_type <- table(data$Disaster.Type)
+View(disaster_type)
+pie(disaster_type, main="Frequency of disasters", col=rainbow(length(data)))
+```
+
+```{r}
+region_of_disasters <- table(data$Region)
+View(region_of_disasters)
+library(plotrix)
+label <- c('Eastern Asia','Central Asia','Western Asia','Southern Asia','South-Eastern Asia')
+pie3D(region_of_disasters,
+      radius = 0.85,
+      height = 0.1,
+      theta = 0.7,
+      border = "white",
+      col = rainbow(length(data)),
+      shade = 0.5,
+      labels = label,
+      labelcol = "red",
+      labelcex = 0.75,
+      explode = 0.2,
+      main="Region of Disasters in Asia")
+```
+```{r}
+disaster_year <- table(data$Year)
+barplot(disaster_year,
+        ylab = "Frequency of disasters",
+        xlab = "Year",
+        main = "No.of occurances over years",
+        col = rainbow(length(data)))
+```
+```{r}
+plot(data$Year, 
+     data$Total.Deaths, 
+     xlab="Years", 
+     ylab="Deaths", 
+     main="Deaths over years", 
+     ylim= c(1,10000), 
+     type="o")
+```
+```{r}
+plot(data$Year, 
+     data$Total.Deaths, 
+     xlab="Years", 
+     ylab="Deaths", 
+     main="Deaths over years", 
+     ylim= c(1,100))
+```
+```{r}
+plot(data$Year, 
+     data$Total.Deaths, 
+     xlab="Years", 
+     ylab="Deaths", 
+     main="Deaths over years", 
+     ylim= c(1,100), 
+     xlim= c(1980,2020))
+```
+```{r}
+plot(data$Total.Affected,
+     data$Year, 
+     xlab="Total affected", 
+     ylab="Years", 
+     main="Total no of affected over the years", 
+     col=rainbow(length(data)))
+```
+```{r}
+countries <- table(data$Country)
+View(countries)
+plot(countries, main="Vulnerable countries", col=rainbow(length(data)))
+```
+```{r}
+plot(data$Year, 
+     data$No.Injured, 
+     xlab="Year", 
+     ylab="Injured", 
+     xlim=c(1930,2020), 
+     ylim=c(100,1000) )
+lines(data$Year, data$No.Homeless, lty="dashed")
+lines(data$Year, data$Total.Affected, lty="dotted")
+```
+```{r}
+boxplot(data$Total.Affected, 
+        data$No.Homeless, 
+        data$No.Injured, 
+        names=c('Affected','Homeless','Injured'), 
+        col=c(3,7,9))
+```
+
+
+
+
+
+

@@ -1,0 +1,1239 @@
+Year,Disaster Subgroup,Disaster Type,Disaster Subtype,Country,Region,Dis Mag Value,Total Deaths,No Injured,No Suffered,No Homeless,Total Affected,CPI
+1922,Geophysical,Earthquake,Ground movement,Taiwan (Province of China),Eastern Asia,8,5,0,0,417,417,6.561914634
+1923,Geophysical,Earthquake,Ground movement,Japan,Eastern Asia,8,143000,103733,100000,0,203733,6.679324638
+1924,Geophysical,Earthquake,Ground movement,Turkey,Western Asia,7,60,0,0,1140,1140,6.718461305
+1925,Geophysical,Earthquake,Ground movement,China,Eastern Asia,6,12,0,0,1500,1500,6.875007977
+1925,Geophysical,Earthquake,Ground movement,Turkey,Western Asia,6,3,0,0,6129,6129,6.875007977
+1925,Geophysical,Earthquake,Ground movement,Japan,Eastern Asia,7,395,0,0,9999,9999,6.875007977
+1927,Geophysical,Earthquake,Ground movement,Indonesia,South-Eastern Asia,6,50,50,0,0,50,6.809780197
+1927,Geophysical,Earthquake,Ground movement,Japan,Eastern Asia,7,3022,3295,29463,46782,79540,6.809780197
+1927,Geophysical,Earthquake,Ground movement,China,Eastern Asia,8,40912,524,0,133370,133894,6.809780197
+1929,Geophysical,Earthquake,Ground movement,Iran (Islamic Republic of),Southern Asia,7,3253,1121,0,0,1121,6.731506861
+1930,Geophysical,Earthquake,Ground movement,Taiwan (Province of China),Eastern Asia,6,4,0,0,891,891,6.548869078
+1930,Geophysical,Earthquake,Ground movement,Japan,Eastern Asia,7,259,1825,0,24297,26122,6.548869078
+1932,Geophysical,Earthquake,Ground movement,Indonesia,South-Eastern Asia,7,6,115,0,2960,3075,5.348677932
+1935,Geophysical,Earthquake,Ground movement,Pakistan,Southern Asia,8,60000,25000,0,0,25000,5.374769044
+1935,Geophysical,Earthquake,Ground movement,Taiwan (Province of China),Eastern Asia,6,3276,12053,0,89535,101588,5.374769044
+1935,Geophysical,Earthquake,Ground movement,Taiwan (Province of China),Eastern Asia,7,2746,6004,0,150000,156004,5.374769044
+1936,Geophysical,Earthquake,Ground movement,Indonesia,South-Eastern Asia,7,9,20,0,0,20,5.439996824
+1936,Geophysical,Earthquake,Ground movement,Taiwan (Province of China),Eastern Asia,7,10,0,0,75,75,5.439996824
+1936,Geophysical,Earthquake,Ground movement,China,Eastern Asia,6,115,31,0,22295,22326,5.439996824
+1937,Geophysical,Earthquake,Ground movement,Philippines (the),South-Eastern Asia,8,1,200,0,0,200,5.635680163
+1938,Geophysical,Earthquake,Ground movement,Turkey,Western Asia,7,149,800,0,0,800,5.51827016
+1939,Geophysical,Earthquake,Ground movement,Turkey,Western Asia,6,60,68,0,0,68,5.45304238
+1939,Geophysical,Earthquake,Ground movement,Japan,Eastern Asia,7,27,52,0,1437,1489,5.45304238
+1940,Geophysical,Earthquake,Ground movement,China,Eastern Asia,6,181,475,0,57780,58255,5.492179048
+1941,Geophysical,Earthquake,Ground movement,China,Eastern Asia,6,15,10,0,350,360,5.766135722
+1941,Geophysical,Earthquake,Ground movement,Taiwan (Province of China),Eastern Asia,7,319,0,0,5304,5304,5.766135722
+1941,Geophysical,Earthquake,Ground movement,Yemen Arab Rep,Western Asia,6,1200,200,5000,3500,8700,5.766135722
+1941,Geophysical,Earthquake,Ground movement,China,Eastern Asia,6,132,203,0,31605,31808,5.766135722
+1943,Geophysical,Earthquake,Ground movement,Turkey,Western Asia,8,4020,5000,0,0,5000,6.783689085
+1943,Geophysical,Earthquake,Ground movement,Indonesia,South-Eastern Asia,7,213,2096,14000,0,16096,6.783689085
+1943,Geophysical,Earthquake,Ground movement,Japan,Eastern Asia,7,1400,0,0,23217,23217,6.783689085
+1944,Geophysical,Earthquake,Tsunami,Japan,Eastern Asia,8,1223,2135,0,78438,80573,6.901099088
+1945,Geophysical,Earthquake,Ground movement,China,Eastern Asia,6,17,30,0,0,30,7.05764576
+1945,Geophysical,Earthquake,Ground movement,Japan,Eastern Asia,7,2306,896,0,21663,22559,7.05764576
+1946,Geophysical,Earthquake,Ground movement,Taiwan (Province of China),Eastern Asia,7,58,384,0,3500,3884,7.644695777
+1948,Geophysical,Earthquake,Ground movement,China,Eastern Asia,7,800,200,0,3000,3200,9.418891383
+1948,Geophysical,Earthquake,Ground movement,China,Eastern Asia,7,110,1000,0,3000,4000,9.418891383
+1948,Geophysical,Earthquake,Ground movement,Japan,Eastern Asia,7,5131,11000,0,315000,326000,9.418891383
+1949,Geophysical,Earthquake,Ground movement,Turkey,Western Asia,7,320,355,0,0,355,9.327572492
+1949,Geophysical,Earthquake,Ground movement,China,Eastern Asia,7,21,17,0,5050,5067,9.327572492
+1950,Geophysical,Earthquake,Ground movement,Indonesia,South-Eastern Asia,7,16,50,0,0,50,9.431936939
+1951,Geophysical,Earthquake,Ground movement,Turkey,Western Asia,7,54,150,0,0,150,10.17553363
+1951,Geophysical,Earthquake,Ground movement,Taiwan (Province of China),Eastern Asia,8,17,250,0,0,250,10.17553363
+1951,Geophysical,Earthquake,Ground movement,Taiwan (Province of China),Eastern Asia,7,68,586,0,11910,12496,10.17553363
+1952,Geophysical,Earthquake,Ground movement,Japan,Eastern Asia,8,33,200,0,0,200,10.41035363
+1952,Geophysical,Earthquake,Ground movement,Turkey,Western Asia,6,103,250,0,0,250,10.41035363
+1952,Geophysical,Earthquake,Ground movement,China,Eastern Asia,7,54,0,0,3870,3870,10.41035363
+1953,Geophysical,Earthquake,Ground movement,Cyprus,Western Asia,6,40,100,0,2500,2600,10.48862697
+1953,Geophysical,Earthquake,Ground movement,Turkey,Western Asia,7,1200,0,50000,0,50000,10.48862697
+1954,Geophysical,Earthquake,Ground movement,Philippines (the),South-Eastern Asia,7,13,101,0,0,101,10.52776364
+1955,Geophysical,Earthquake,Ground movement,China,Eastern Asia,8,39,113,0,0,113,10.47300041
+1955,Geophysical,Earthquake,Ground movement,Philippines (the),South-Eastern Asia,6,400,2000,0,0,2000,10.47300041
+1956,Geophysical,Earthquake,Ground movement,Lebanon,Western Asia,6,136,200,0,0,200,10.63271917
+1956,Geophysical,Earthquake,Ground movement,India,Southern Asia,6,113,219,0,0,219,10.63271917
+1956,Geophysical,Earthquake,Ground movement,Afghanistan,Southern Asia,8,100,2000,0,0,2000,10.63271917
+1957,Geophysical,Earthquake,Ground movement,Turkey,Western Asia,7,53,119,0,0,119,10.98800719
+1957,Geophysical,Earthquake,Ground movement,Iran (Islamic Republic of),Southern Asia,7,3000,5000,0,0,5000,10.98800719
+1957,Geophysical,Earthquake,Ground movement,Iran (Islamic Republic of),Southern Asia,7,2500,0,10000,0,10000,10.98800719
+1958,Geophysical,Earthquake,Ground movement,Iran (Islamic Republic of),Southern Asia,7,191,984,0,0,984,11.28789241
+1958,Geophysical,Earthquake,Ground movement,Indonesia,South-Eastern Asia,7,8,1856,1030,475,3361,11.28789241
+1959,Geophysical,Earthquake,Ground movement,Taiwan (Province of China),Eastern Asia,7,16,63,0,0,63,11.40197989
+1962,Geophysical,Earthquake,Ground movement,Iran (Islamic Republic of),Southern Asia,7,12000,3000,100000,0,103000,11.83224153
+1963,Geophysical,Earthquake,Ground movement,Taiwan (Province of China),Eastern Asia,7,15,18,0,0,18,11.97891616
+1964,Geophysical,Earthquake,Ground movement,Turkey,Western Asia,7,23,100,13000,0,13100,12.13211749
+1964,Geophysical,Earthquake,Tsunami,Japan,Eastern Asia,7,25,376,35000,0,35376,12.13211749
+1964,Geophysical,Earthquake,Ground movement,Taiwan (Province of China),Eastern Asia,7,107,2485,37000,23000,62485,12.13211749
+1965,Geophysical,Earthquake,Ground movement,Indonesia,South-Eastern Asia,8,71,0,15000,0,15000,12.32443267
+1966,Geophysical,Earthquake,Ground movement,Turkey,Western Asia,5,12,20,0,0,20,12.69602817
+1966,Geophysical,Earthquake,Ground movement,Nepal,Southern Asia,6,80,100,20000,0,20100,12.69602817
+1966,Geophysical,Earthquake,Ground movement,Turkey,Western Asia,7,2394,1500,108000,0,109500,12.69602817
+1967,Geophysical,Earthquake,Ground movement,Indonesia,South-Eastern Asia,6,71,100,0,0,100,13.04806211
+1967,Geophysical,Earthquake,Ground movement,Indonesia,South-Eastern Asia,6,54,121,0,8290,8411,13.04806211
+1967,Geophysical,Earthquake,Ground movement,Indonesia,South-Eastern Asia,7,14,0,0,10000,10000,13.04806211
+1967,Geophysical,Earthquake,Ground movement,India,Southern Asia,7,177,2272,50000,0,52272,13.04806211
+1967,Geophysical,Earthquake,Ground movement,Turkey,Western Asia,7,183,360,238713,87000,326073,13.04806211
+1968,Geophysical,Earthquake,Ground movement,Japan,Eastern Asia,7,47,281,2500,0,2781,13.60544609
+1968,Geophysical,Earthquake,Ground movement,Iran (Islamic Republic of),Southern Asia,5,38,100,5000,0,5100,13.60544609
+1968,Geophysical,Earthquake,Ground movement,Turkey,Western Asia,7,24,200,10000,10000,20200,13.60544609
+1968,Geophysical,Earthquake,Ground movement,Iran (Islamic Republic of),Southern Asia,7,10000,4050,75000,0,79050,13.60544609
+1969,Geophysical,Earthquake,Ground movement,Turkey,Western Asia,7,53,350,0,0,350,14.34862782
+1969,Geophysical,Earthquake,Tsunami,Indonesia,South-Eastern Asia,7,64,97,0,6435,6532,14.34862782
+1969,Geophysical,Earthquake,Ground movement,Iran (Islamic Republic of),Southern Asia,6,50,300,48000,0,48300,14.34862782
+1969,Geophysical,Earthquake,Ground movement,China,Eastern Asia,6,3000,0,0,53810,53810,14.34862782
+1970,Geophysical,Earthquake,Ground movement,India,Southern Asia,5,26,200,0,0,200,15.18633546
+1970,Geophysical,Earthquake,Ground movement,Iran (Islamic Republic of),Southern Asia,7,176,0,10000,0,10000,15.18633546
+1970,Geophysical,Earthquake,Ground movement,Turkey,Western Asia,7,1086,2776,80672,0,83448,15.18633546
+1971,Geophysical,Earthquake,Ground movement,Indonesia,South-Eastern Asia,5,1,6,6885,0,6891,15.83825463
+1971,Geophysical,Earthquake,Ground movement,Turkey,Western Asia,7,878,1200,60000,27465,88665,15.83825463
+1972,Geophysical,Earthquake,Ground movement,Afghanistan,Southern Asia,6,11,15,0,0,15,16.35652475
+1972,Geophysical,Earthquake,Ground movement,Pakistan,Southern Asia,6,100,0,5000,0,5000,16.35652475
+1972,Geophysical,Earthquake,Ground movement,Iran (Islamic Republic of),Southern Asia,7,5057,1332,22126,0,23458,16.35652475
+1973,Geophysical,Earthquake,Ground movement,Philippines (the),South-Eastern Asia,7,14,64,0,0,64,17.36698602
+1974,Geophysical,Earthquake,Ground movement,Japan,Eastern Asia,7,30,73,0,0,73,19.28687447
+1974,Geophysical,Earthquake,Ground movement,Pakistan,Southern Asia,6,4700,15000,30000,5200,50200,19.28687447
+1975,Geophysical,Earthquake,Ground movement,Turkey,Western Asia,7,2385,3372,50000,0,53372,21.05030752
+1976,Geophysical,Earthquake,Ground movement,Turkey,Western Asia,5,2,6,0,0,6,22.25960139
+1976,Geophysical,Earthquake,Ground movement,Indonesia,South-Eastern Asia,7,133,0,7000,0,7000,22.25960139
+1976,Geophysical,Earthquake,Ground movement,Turkey,Western Asia,5,4,50,0,9000,9050,22.25960139
+1976,Geophysical,Earthquake,Ground movement,Indonesia,South-Eastern Asia,7,420,0,15000,0,15000,22.25960139
+1976,Geophysical,Earthquake,Ground movement,Afghanistan,Southern Asia,6,50,0,90000,0,90000,22.25960139
+1976,Geophysical,Earthquake,Ground movement,China,Eastern Asia,8,242000,164000,0,0,164000,22.25960139
+1976,Geophysical,Earthquake,Ground movement,Philippines (the),South-Eastern Asia,8,6000,6348,175000,0,181348,22.25960139
+1976,Geophysical,Earthquake,Ground movement,Turkey,Western Asia,7,3840,15000,150000,51000,216000,22.25960139
+1976,Meteorological,Storm,Tropical cyclone,Japan,Eastern Asia,150,169,107,325000,0,325107,22.25960139
+1976,Geophysical,Earthquake,Ground movement,Indonesia,South-Eastern Asia,7,573,4755,450000,0,454755,22.25960139
+1977,Geophysical,Earthquake,Ground movement,Iran (Islamic Republic of),Southern Asia,5,3,9,0,0,9,23.706851
+1977,Geophysical,Earthquake,Ground movement,Iran (Islamic Republic of),Southern Asia,5,3,15,0,0,15,23.706851
+1977,Geophysical,Earthquake,Ground movement,Iran (Islamic Republic of),Southern Asia,6,589,500,0,0,500,23.706851
+1977,Geophysical,Earthquake,Ground movement,Indonesia,South-Eastern Asia,8,185,75,3900,0,3975,23.706851
+1977,Geophysical,Earthquake,Ground movement,Iran (Islamic Republic of),Southern Asia,7,167,556,20126,0,20682,23.706851
+1977,Geophysical,Earthquake,Ground movement,Philippines (the),South-Eastern Asia,7,1,30,60000,0,60030,23.706851
+1977,Geophysical,Earthquake,Ground movement,Iran (Islamic Republic of),Southern Asia,6,352,200,400000,0,400200,23.706851
+1978,Geophysical,Earthquake,Ground movement,Iran (Islamic Republic of),Southern Asia,6,45,52,0,0,52,25.51591532
+1978,Geophysical,Earthquake,Ground movement,Japan,Eastern Asia,7,25,129,1632,255,2016,25.51591532
+1978,Geophysical,Earthquake,Ground movement,Japan,Eastern Asia,8,28,500,2000,0,2500,25.51591532
+1978,Geophysical,Earthquake,Ground movement,Iran (Islamic Republic of),Southern Asia,7,25000,0,40000,0,40000,25.51591532
+1979,Geophysical,Earthquake,Ground movement,Iran (Islamic Republic of),Southern Asia,7,16,23,0,0,23,28.3875989
+1979,Geophysical,Earthquake,Ground movement,Indonesia,South-Eastern Asia,6,32,619,0,0,619,28.3875989
+1979,Geophysical,Earthquake,Ground movement,Indonesia,South-Eastern Asia,7,5,0,1500,0,1500,28.3875989
+1979,Geophysical,Earthquake,Ground movement,Indonesia,South-Eastern Asia,8,2,5,5000,0,5005,28.3875989
+1979,Geophysical,Earthquake,Ground movement,Iran (Islamic Republic of),Southern Asia,7,199,200,5000,0,5200,28.3875989
+1979,Geophysical,Earthquake,Ground movement,Iran (Islamic Republic of),Southern Asia,7,350,55,15000,0,15055,28.3875989
+1979,Geophysical,Earthquake,Ground movement,Indonesia,South-Eastern Asia,6,34,48,18000,18000,36048,28.3875989
+1979,Geophysical,Earthquake,Ground movement,Indonesia,South-Eastern Asia,6,26,200,43000,0,43200,28.3875989
+1979,Geophysical,Earthquake,Ground movement,China,Eastern Asia,5,42,2987,0,569545,572532,28.3875989
+1980,Geophysical,Earthquake,Ground movement,India,Southern Asia,6,13,40,0,0,40,32.23389323
+1980,Geophysical,Earthquake,Ground movement,Japan,Eastern Asia,6,2,73,0,0,73,32.23389323
+1980,Geophysical,Earthquake,Ground movement,Iran (Islamic Republic of),Southern Asia,5,4,100,0,0,100,32.23389323
+1980,Geophysical,Earthquake,Ground movement,Nepal,Southern Asia,7,100,5600,200000,35000,240600,32.23389323
+1981,Geophysical,Earthquake,Ground movement,Pakistan,Southern Asia,4,6,12,225,0,237,35.56517152
+1981,Geophysical,Earthquake,Ground movement,Pakistan,Southern Asia,6,250,2000,0,0,2000,35.56517152
+1981,Geophysical,Earthquake,Ground movement,Indonesia,South-Eastern Asia,7,306,0,2682,0,2682,35.56517152
+1981,Geophysical,Earthquake,Ground movement,Iran (Islamic Republic of),Southern Asia,7,2000,3000,0,0,3000,35.56517152
+1981,Geophysical,Earthquake,Ground movement,China,Eastern Asia,7,150,850,25000,0,25850,35.56517152
+1981,Geophysical,Earthquake,Ground movement,Iran (Islamic Republic of),Southern Asia,7,1200,1000,30000,0,31000,35.56517152
+1981,Meteorological,Storm,Tropical cyclone,Philippines (the),South-Eastern Asia,200,261,95,840078,0,840173,35.56517152
+1982,Geophysical,Earthquake,Ground movement,China,Eastern Asia,6,10,5,0,0,5,37.74582208
+1982,Geophysical,Earthquake,Ground movement,Japan,Eastern Asia,7,110,100,1000,0,1100,37.74582208
+1982,Geophysical,Earthquake,Ground movement,Indonesia,South-Eastern Asia,6,13,417,6400,2000,8817,37.74582208
+1982,Geophysical,Earthquake,Ground movement,Afghanistan,Southern Asia,7,500,3000,35000,0,38000,37.74582208
+1982,Meteorological,Storm,Tropical cyclone,India,Southern Asia,220,244,493,300000,0,300493,37.74582208
+1982,Geophysical,Earthquake,Ground movement,Yemen Arab Rep,Western Asia,6,1507,1500,400000,0,401500,37.74582208
+1983,Geophysical,Earthquake,Ground movement,Japan,Eastern Asia,5,1,28,0,0,28,38.9583793
+1983,Geophysical,Earthquake,Tsunami,Japan,Eastern Asia,8,102,77,0,0,77,38.9583793
+1983,Geophysical,Earthquake,Ground movement,Iran (Islamic Republic of),Southern Asia,6,3,41,0,375,416,38.9583793
+1983,Geophysical,Earthquake,Ground movement,Pakistan,Southern Asia,7,24,543,0,0,543,38.9583793
+1983,Geophysical,Earthquake,Ground movement,Philippines (the),South-Eastern Asia,7,19,176,1725,0,1901,38.9583793
+1983,Geophysical,Earthquake,Ground movement,Iran (Islamic Republic of),Southern Asia,5,30,61,7005,0,7066,38.9583793
+1983,Geophysical,Earthquake,Ground movement,China,Eastern Asia,5,34,2200,0,16500,18700,38.9583793
+1983,Geophysical,Earthquake,Ground movement,Afghanistan,Southern Asia,7,12,483,27440,6580,34503,38.9583793
+1983,Meteorological,Storm,Tropical cyclone,Philippines (the),South-Eastern Asia,120,115,27,120811,29054,149892,38.9583793
+1983,Geophysical,Earthquake,Ground movement,Turkey,Western Asia,7,1346,1137,800000,33000,834137,38.9583793
+1984,Geophysical,Earthquake,Ground movement,Pakistan,Southern Asia,7,4,12,0,0,12,40.63380386
+1984,Geophysical,Earthquake,Ground movement,Afghanistan,Southern Asia,6,1,35,0,0,35,40.63380386
+1984,Geophysical,Earthquake,Ground movement,Indonesia,South-Eastern Asia,6,2,89,0,0,89,40.63380386
+1984,Geophysical,Earthquake,Ground movement,India,Southern Asia,6,20,100,800,10000,10900,40.63380386
+1984,Geophysical,Earthquake,Ground movement,Turkey,Western Asia,5,3,35,375000,0,375035,40.63380386
+1985,Geophysical,Earthquake,Ground movement,Indonesia,South-Eastern Asia,6,10,7,0,0,7,42.07452677
+1985,Geophysical,Earthquake,Ground movement,Philippines (the),South-Eastern Asia,7,2,25,150,0,175,42.07452677
+1985,Geophysical,Earthquake,Ground movement,China,Eastern Asia,6,22,300,0,0,300,42.07452677
+1985,Hydrological,Flood,Flash flood,Indonesia,South-Eastern Asia,16540,21,0,300,0,300,42.07452677
+1985,Hydrological,Flood,Riverine flood,Philippines (the),South-Eastern Asia,12850,54,0,444,0,444,42.07452677
+1985,Hydrological,Flood,Riverine flood,Indonesia,South-Eastern Asia,77090,10,0,2000,0,2000,42.07452677
+1985,Hydrological,Flood,Riverine flood,China,Eastern Asia,458670,64,0,2000,0,2000,42.07452677
+1985,Geophysical,Earthquake,Ground movement,Iran (Islamic Republic of),Southern Asia,5,1,80,7000,0,7080,42.07452677
+1985,Geophysical,Earthquake,Ground movement,Pakistan,Southern Asia,7,5,38,12000,0,12038,42.07452677
+1985,Geophysical,Earthquake,Ground movement,China,Eastern Asia,7,67,100,0,16000,16100,42.07452677
+1985,Meteorological,Storm,Convective storm,Bangladesh,Southern Asia,150,50,2000,18000,0,20000,42.07452677
+1985,Hydrological,Flood,Riverine flood,India,Southern Asia,254240,95,0,25000,0,25000,42.07452677
+1985,Hydrological,Flood,Riverine flood,Bangladesh,Southern Asia,8910,7,0,100000,0,100000,42.07452677
+1985,Hydrological,Flood,Riverine flood,India,Southern Asia,90000,557,0,152000,0,152000,42.07452677
+1986,Geophysical,Earthquake,Ground movement,India,Southern Asia,5,6,30,0,0,30,42.87312983
+1986,Meteorological,Storm,Tropical cyclone,China,Eastern Asia,150,43,381,0,0,381,42.87312983
+1986,Geophysical,Earthquake,Ground movement,Iran (Islamic Republic of),Southern Asia,6,1,4,1500,0,1504,42.87312983
+1986,Geophysical,Earthquake,Ground movement,Turkey,Western Asia,6,15,100,20000,0,20100,42.87312983
+1986,Hydrological,Flood,Riverine flood,Iran (Islamic Republic of),Southern Asia,155900,200,0,40000,0,40000,42.87312983
+1986,Hydrological,Flood,Riverine flood,Bangladesh,Southern Asia,196,4,0,100000,0,100000,42.87312983
+1986,Hydrological,Flood,Riverine flood,India,Southern Asia,2400,187,0,245000,0,245000,42.87312983
+1986,Meteorological,Storm,Tropical cyclone,Philippines (the),South-Eastern Asia,220,109,16,644608,2689,647313,42.87312983
+1987,Geophysical,Earthquake,Ground movement,Iran (Islamic Republic of),Southern Asia,5,2,50,0,0,50,44.44423842
+1987,Geophysical,Earthquake,Ground movement,Indonesia,South-Eastern Asia,6,2,1,15000,0,15001,44.44423842
+1987,Geophysical,Earthquake,Ground movement,Indonesia,South-Eastern Asia,7,125,100,16000,1000,17100,44.44423842
+1987,Geophysical,Earthquake,Ground movement,Japan,Eastern Asia,6,2,53,22599,0,22652,44.44423842
+1987,Meteorological,Storm,Tropical cyclone,India,Southern Asia,800,38,0,50000,0,50000,44.44423842
+1987,Meteorological,Storm,Tropical cyclone,Korea (the Republic of),Eastern Asia,130,483,0,56000,0,56000,44.44423842
+1987,Hydrological,Flood,Riverine flood,China,Eastern Asia,3000,92,400,350000,0,350400,44.44423842
+1988,Geophysical,Earthquake,Ground movement,Bangladesh,Southern Asia,6,2,100,0,0,100,46.25655683
+1988,Geophysical,Earthquake,Ground movement,Iran (Islamic Republic of),Southern Asia,6,1,0,10000,0,10000,46.25655683
+1988,Hydrological,Flood,Flash flood,China,Eastern Asia,300,204,0,30000,0,30000,46.25655683
+1988,Meteorological,Storm,Tropical cyclone,China,Eastern Asia,300,194,1232,135000,0,136232,46.25655683
+1988,Geophysical,Earthquake,Ground movement,Nepal,Southern Asia,7,709,1016,300000,0,301016,46.25655683
+1988,Meteorological,Storm,Tropical cyclone,Viet Nam,South-Eastern Asia,110,137,0,600000,0,600000,46.25655683
+1989,Geophysical,Earthquake,Ground movement,Bangladesh,Southern Asia,5,1,100,0,0,100,48.48936537
+1989,Geophysical,Earthquake,Ground movement,Iran (Islamic Republic of),Southern Asia,6,100,17,0,200,217,48.48936537
+1989,Meteorological,Storm,Tropical cyclone,Philippines (the),South-Eastern Asia,160,11,1,12837,212,13050,48.48936537
+1989,Geophysical,Earthquake,Ground movement,Indonesia,South-Eastern Asia,6,120,196,17000,0,17196,48.48936537
+1989,Geophysical,Earthquake,Ground movement,China,Eastern Asia,6,1,91,0,26500,26591,48.48936537
+1989,Geophysical,Earthquake,Ground movement,China,Eastern Asia,6,8,107,0,40000,40107,48.48936537
+1989,Geophysical,Earthquake,Ground movement,China,Eastern Asia,5,4,0,52800,0,52800,48.48936537
+1989,Geophysical,Earthquake,Ground movement,China,Eastern Asia,5,29,140,50000,55000,105140,48.48936537
+1989,Meteorological,Storm,Tropical cyclone,Philippines (the),South-Eastern Asia,150,22,21,140000,0,140021,48.48936537
+1989,Hydrological,Flood,Riverine flood,Pakistan,Southern Asia,2692,20,0,142400,0,142400,48.48936537
+1989,Meteorological,Storm,Tropical cyclone,Thailand,South-Eastern Asia,120,458,0,154000,45000,199000,48.48936537
+1989,Hydrological,Flood,Riverine flood,Yemen P Dem Rep,Western Asia,200,25,0,260000,80000,340000,48.48936537
+1989,Meteorological,Storm,Tropical cyclone,Philippines (the),South-Eastern Asia,205,30,279,458400,0,458679,48.48936537
+1989,Hydrological,Flood,Riverine flood,Sri Lanka,Southern Asia,2735,325,1000,300000,200000,501000,48.48936537
+1990,Geophysical,Earthquake,Ground movement,Philippines (the),South-Eastern Asia,7,4,15,0,0,15,51.106795
+1990,Geophysical,Earthquake,Ground movement,Pakistan,Southern Asia,6,11,40,0,0,40,51.106795
+1990,Hydrological,Flood,Flash flood,Philippines (the),South-Eastern Asia,3620,98,0,236,0,236,51.106795
+1990,Geophysical,Earthquake,Ground movement,Pakistan,Southern Asia,7,11,250,0,0,250,51.106795
+1990,Geophysical,Earthquake,Ground movement,Indonesia,South-Eastern Asia,6,1,32,2140,0,2172,51.106795
+1990,Hydrological,Flood,Riverine flood,Turkey,Western Asia,20700,51,0,4500,0,4500,51.106795
+1990,Geophysical,Earthquake,Ground movement,Indonesia,South-Eastern Asia,8,5,36,7000,0,7036,51.106795
+1990,Hydrological,Flood,Riverine flood,Viet Nam,South-Eastern Asia,13950,82,200,10000,0,10200,51.106795
+1990,Hydrological,Flood,Riverine flood,Indonesia,South-Eastern Asia,23640,169,0,21000,0,21000,51.106795
+1990,Geophysical,Earthquake,Ground movement,Iran (Islamic Republic of),Southern Asia,7,21,90,21000,1310,22400,51.106795
+1990,Geophysical,Earthquake,Ground movement,China,Eastern Asia,6,1,16,30000,0,30016,51.106795
+1990,Geophysical,Earthquake,Ground movement,China,Eastern Asia,7,126,2049,24574,7696,34319,51.106795
+1990,Geophysical,Earthquake,Ground movement,Philippines (the),South-Eastern Asia,7,1,4,34500,0,34504,51.106795
+1990,Meteorological,Storm,Tropical cyclone,Philippines (the),South-Eastern Asia,150,64,14,160000,0,160014,51.106795
+1990,Hydrological,Flood,Riverine flood,China,Eastern Asia,438800,72,0,0,175000,175000,51.106795
+1990,Hydrological,Flood,Riverine flood,Korea (the Republic of),Eastern Asia,10440,127,27,189233,0,189260,51.106795
+1991,Geophysical,Earthquake,Ground movement,Iraq,Western Asia,6,20,0,0,500,500,53.27115662
+1991,Hydrological,Flood,Flash flood,Turkey,Western Asia,40170,42,0,500,0,500,53.27115662
+1991,Hydrological,Flood,Riverine flood,Korea (the Republic of),Eastern Asia,21910,54,36,0,1500,1536,53.27115662
+1991,Geophysical,Earthquake,Ground movement,Georgia,Western Asia,6,8,200,2190,1350,3740,53.27115662
+1991,Hydrological,Flood,Riverine flood,Viet Nam,South-Eastern Asia,30960,38,14,4000,0,4014,53.27115662
+1991,Geophysical,Earthquake,Ground movement,Afghanistan,Southern Asia,6,130,0,7000,0,7000,53.27115662
+1991,Meteorological,Storm,Tropical cyclone,Philippines (the),South-Eastern Asia,100,2,0,0,10000,10000,53.27115662
+1991,Geophysical,Earthquake,Ground movement,Indonesia,South-Eastern Asia,7,28,191,15000,1000,16191,53.27115662
+1991,Meteorological,Storm,Tropical cyclone,Korea (the Republic of),Eastern Asia,90,72,0,20750,0,20750,53.27115662
+1991,Geophysical,Earthquake,Ground movement,Yemen,Western Asia,4,10,39,0,40000,40039,53.27115662
+1991,Geophysical,Earthquake,Ground movement,India,Southern Asia,6,1500,1383,53000,0,54383,53.27115662
+1991,Hydrological,Flood,Riverine flood,Iran (Islamic Republic of),Southern Asia,448300,6,0,100000,15000,115000,53.27115662
+1991,Geophysical,Earthquake,Ground movement,Pakistan,Southern Asia,6,300,574,174755,29465,204794,53.27115662
+1991,Geophysical,Earthquake,Ground movement,China,Eastern Asia,6,1,542,240000,0,240542,53.27115662
+1991,Hydrological,Flood,Riverine flood,Viet Nam,South-Eastern Asia,1000,21,0,270000,600,270600,53.27115662
+1991,Hydrological,Flood,Riverine flood,India,Southern Asia,491400,72,0,300000,0,300000,53.27115662
+1991,Meteorological,Storm,Tropical cyclone,Philippines (the),South-Eastern Asia,260,65,38,300000,16000,316038,53.27115662
+1991,Hydrological,Flood,Riverine flood,Myanmar,South-Eastern Asia,1011,23,0,359976,0,359976,53.27115662
+1991,Hydrological,Flood,Riverine flood,Cambodia,South-Eastern Asia,55860,100,0,650000,250000,900000,53.27115662
+1992,Geophysical,Earthquake,Ground movement,Georgia,Western Asia,7,1,10,0,0,10,54.88464241
+1992,Meteorological,Storm,Tropical cyclone,Japan,Eastern Asia,180,11,86,0,0,86,54.88464241
+1992,Meteorological,Storm,Tropical cyclone,India,Southern Asia,140,25,100,0,0,100,54.88464241
+1992,Geophysical,Earthquake,Ground movement,Pakistan,Southern Asia,6,36,100,0,2000,2100,54.88464241
+1992,Geophysical,Earthquake,Ground movement,Iran (Islamic Republic of),Southern Asia,5,5,50,0,4000,4050,54.88464241
+1992,Hydrological,Flood,Riverine flood,China,Eastern Asia,393000,35,0,0,5000,5000,54.88464241
+1992,Meteorological,Storm,Tropical cyclone,Philippines (the),South-Eastern Asia,109,22,0,5135,0,5135,54.88464241
+1992,Hydrological,Flood,Riverine flood,Iran (Islamic Republic of),Southern Asia,1100,63,0,17500,2500,20000,54.88464241
+1992,Hydrological,Flood,Riverine flood,China,Eastern Asia,65830,96,1632,0,30000,31632,54.88464241
+1992,Geophysical,Earthquake,Ground movement,Uzbekistan,Central Asia,6,9,0,50000,0,50000,54.88464241
+1992,Geophysical,Earthquake,Ground movement,Kyrgyzstan,Central Asia,7,4,0,50000,0,50000,54.88464241
+1992,Hydrological,Flood,Riverine flood,Viet Nam,South-Eastern Asia,569,55,10,44109,7579,51698,54.88464241
+1992,Geophysical,Earthquake,Ground movement,Kyrgyzstan,Central Asia,8,54,100,54168,32538,86806,54.88464241
+1992,Geophysical,Earthquake,Ground movement,Indonesia,South-Eastern Asia,8,2500,2103,0,90000,92103,54.88464241
+1992,Meteorological,Storm,Tropical cyclone,Philippines (the),South-Eastern Asia,205,11,1,171603,1965,173569,54.88464241
+1992,Hydrological,Flood,Riverine flood,China,Eastern Asia,545400,248,70,210000,0,210070,54.88464241
+1992,Hydrological,Flood,Riverine flood,Sri Lanka,Southern Asia,11670,14,0,0,250000,250000,54.88464241
+1992,Geophysical,Earthquake,Ground movement,Turkey,Western Asia,7,653,3850,250000,95000,348850,54.88464241
+1992,Hydrological,Flood,Riverine flood,China,Eastern Asia,491100,88,300,0,435000,435300,54.88464241
+1993,Hydrological,Flood,Riverine flood,Philippines (the),South-Eastern Asia,360,25,4,0,0,4,56.50464564
+1993,Meteorological,Storm,Tropical cyclone,Hong Kong,Eastern Asia,102,2,30,100,59,189,56.50464564
+1993,Meteorological,Storm,Tropical cyclone,Hong Kong,Eastern Asia,180,4,183,21,0,204,56.50464564
+1993,Meteorological,Storm,Tropical cyclone,Hong Kong,Eastern Asia,130,1,48,210,0,258,56.50464564
+1993,Meteorological,Storm,Tropical cyclone,India,Southern Asia,200,125,500,0,0,500,56.50464564
+1993,Meteorological,Storm,Tropical cyclone,Bangladesh,Southern Asia,161,50,500,0,2000,2500,56.50464564
+1993,Meteorological,Storm,Tropical cyclone,Korea (the Democratic People's Republic of),Eastern Asia,304,6,0,2500,0,2500,56.50464564
+1993,Geophysical,Earthquake,Ground movement,Iran (Islamic Republic of),Southern Asia,6,24,49,4000,0,4049,56.50464564
+1993,Geophysical,Earthquake,Tsunami,Japan,Eastern Asia,8,239,233,5502,1620,7355,56.50464564
+1993,Hydrological,Flood,Riverine flood,China,Eastern Asia,9500,41,400,7000,0,7400,56.50464564
+1993,Meteorological,Storm,Tropical cyclone,Bangladesh,Southern Asia,160,14,0,7500,0,7500,56.50464564
+1993,Hydrological,Flood,Flash flood,Indonesia,South-Eastern Asia,4050,72,0,8000,0,8000,56.50464564
+1993,Geophysical,Earthquake,Ground movement,Japan,Eastern Asia,8,2,722,9800,0,10522,56.50464564
+1993,Hydrological,Flood,Flash flood,Viet Nam,South-Eastern Asia,29440,64,0,15000,0,15000,56.50464564
+1993,Hydrological,Flood,Riverine flood,Yemen,Western Asia,61490,31,0,9000,12500,21500,56.50464564
+1993,Meteorological,Storm,Tropical cyclone,China,Eastern Asia,120,10,428,24000,0,24428,56.50464564
+1993,Hydrological,Flood,Riverine flood,Malaysia,South-Eastern Asia,103800,30,0,20000,5000,25000,56.50464564
+1993,Meteorological,Storm,Tropical cyclone,Viet Nam,South-Eastern Asia,130,73,20,20520,4695,25235,56.50464564
+1993,Geophysical,Earthquake,Ground movement,India,Southern Asia,6,9748,30000,0,0,30000,56.50464564
+1993,Hydrological,Flood,Riverine flood,Kazakhstan,Central Asia,213200,10,0,30000,0,30000,56.50464564
+1993,Meteorological,Storm,Tropical cyclone,Japan,Eastern Asia,180,48,208,30255,0,30463,56.50464564
+1993,Meteorological,Storm,Tropical cyclone,Philippines (the),South-Eastern Asia,180,2,0,29413,14322,43735,56.50464564
+1993,Meteorological,Storm,Tropical cyclone,India,Southern Asia,120,61,0,12000,60000,72000,56.50464564
+1993,Hydrological,Flood,Riverine flood,Philippines (the),South-Eastern Asia,23140,23,0,90000,0,90000,56.50464564
+1993,Hydrological,Flood,Riverine flood,Sri Lanka,Southern Asia,13960,8,0,140000,40000,180000,56.50464564
+1993,Meteorological,Storm,Tropical cyclone,China,Eastern Asia,130,1,0,250000,0,250000,56.50464564
+1993,Hydrological,Flood,Riverine flood,Indonesia,South-Eastern Asia,19200,59,0,259553,0,259553,56.50464564
+1993,Meteorological,Storm,Tropical cyclone,Philippines (the),South-Eastern Asia,120,52,7,366217,0,366224,56.50464564
+1993,Hydrological,Flood,Flash flood,Thailand,South-Eastern Asia,56410,23,252,377070,16487,393809,56.50464564
+1993,Hydrological,Flood,Riverine flood,Iran (Islamic Republic of),Southern Asia,625200,407,3,484725,0,484728,56.50464564
+1993,Hydrological,Flood,Flash flood,Nepal,Southern Asia,373,1048,268,553000,0,553268,56.50464564
+1994,Meteorological,Storm,Tropical cyclone,Taiwan (Province of China),Eastern Asia,174,10,40,0,0,40,57.97797424
+1994,Meteorological,Storm,Tropical cyclone,Korea (the Republic of),Eastern Asia,74,28,2,0,86,88,57.97797424
+1994,Geophysical,Earthquake,Ground movement,Iran (Islamic Republic of),Southern Asia,6,2,100,0,0,100,57.97797424
+1994,Meteorological,Storm,Tropical cyclone,Bangladesh,Southern Asia,120,40,150,0,0,150,57.97797424
+1994,Geophysical,Earthquake,Ground movement,Japan,Eastern Asia,8,2,285,0,0,285,57.97797424
+1994,Meteorological,Storm,Tropical cyclone,Taiwan (Province of China),Eastern Asia,160,16,41,457,0,498,57.97797424
+1994,Geophysical,Earthquake,Ground movement,China,Eastern Asia,7,1,500,0,0,500,57.97797424
+1994,Geophysical,Earthquake,Ground movement,Iran (Islamic Republic of),Southern Asia,6,9,0,1500,0,1500,57.97797424
+1994,Geophysical,Earthquake,Ground movement,Japan,Eastern Asia,8,5,1500,0,0,1500,57.97797424
+1994,Geophysical,Earthquake,Ground movement,Indonesia,South-Eastern Asia,6,1,52,2385,0,2437,57.97797424
+1994,Geophysical,Earthquake,Ground movement,Indonesia,South-Eastern Asia,7,239,440,8280,0,8720,57.97797424
+1994,Geophysical,Earthquake,Ground movement,Iran (Islamic Republic of),Southern Asia,6,3,31,15010,0,15041,57.97797424
+1994,Hydrological,Flood,Riverine flood,Philippines (the),South-Eastern Asia,36860,9,0,16821,0,16821,57.97797424
+1994,Hydrological,Flood,Riverine flood,China,Eastern Asia,183800,41,0,0,17000,17000,57.97797424
+1994,Hydrological,Flood,Riverine flood,Philippines (the),South-Eastern Asia,25390,2,0,18000,0,18000,57.97797424
+1994,Geophysical,Earthquake,Ground movement,Indonesia,South-Eastern Asia,7,207,1449,37620,10330,49399,57.97797424
+1994,Hydrological,Flood,Riverine flood,Indonesia,South-Eastern Asia,1820,5,0,50000,0,50000,57.97797424
+1994,Hydrological,Flood,Riverine flood,Iran (Islamic Republic of),Southern Asia,271200,12,0,75000,0,75000,57.97797424
+1994,Geophysical,Earthquake,Ground movement,Afghanistan,Southern Asia,6,160,330,100000,0,100330,57.97797424
+1994,Meteorological,Storm,Tropical cyclone,Philippines (the),South-Eastern Asia,110,15,33,46500,59213,105746,57.97797424
+1994,Hydrological,Flood,Riverine flood,Indonesia,South-Eastern Asia,36280,33,0,187131,0,187131,57.97797424
+1994,Geophysical,Earthquake,Ground movement,Indonesia,South-Eastern Asia,7,7,40,200000,0,200040,57.97797424
+1994,Meteorological,Storm,Tropical cyclone,Philippines (the),South-Eastern Asia,150,32,15,0,258736,258751,57.97797424
+1994,Geophysical,Earthquake,Ground movement,Philippines (the),South-Eastern Asia,7,81,171,266710,3985,270866,57.97797424
+1994,Hydrological,Flood,Riverine flood,Viet Nam,South-Eastern Asia,65260,310,0,382000,0,382000,57.97797424
+1994,Meteorological,Storm,Tropical cyclone,India,Southern Asia,125,208,0,428500,0,428500,57.97797424
+1994,Meteorological,Storm,Tropical cyclone,China,Eastern Asia,74,74,684,0,440000,440684,57.97797424
+1994,Meteorological,Storm,Tropical cyclone,Bangladesh,Southern Asia,220,130,3559,450000,200000,653559,57.97797424
+1995,Hydrological,Flood,Riverine flood,Iran (Islamic Republic of),Southern Asia,1120,10,11,0,0,11,59.60449489
+1995,Geophysical,Earthquake,Ground movement,Indonesia,South-Eastern Asia,7,15,26,150,0,176,59.60449489
+1995,Hydrological,Flood,Riverine flood,Georgia,Western Asia,8420,1,0,300,0,300,59.60449489
+1995,Meteorological,Storm,Tropical cyclone,Korea (the Republic of),Eastern Asia,194,28,0,1000,450,1450,59.60449489
+1995,Geophysical,Earthquake,Ground movement,Cyprus,Western Asia,6,2,5,1710,150,1865,59.60449489
+1995,Meteorological,Storm,Convective storm,Bangladesh,Southern Asia,160,6,70,0,2000,2070,59.60449489
+1995,Hydrological,Flood,Flash flood,Indonesia,South-Eastern Asia,10,27,0,2200,0,2200,59.60449489
+1995,Geophysical,Earthquake,Ground movement,China,Eastern Asia,6,14,60,0,5000,5060,59.60449489
+1995,Hydrological,Flood,Riverine flood,Nepal,Southern Asia,71320,140,0,10000,3000,13000,59.60449489
+1995,Geophysical,Earthquake,Ground movement,China,Eastern Asia,6,46,297,0,20000,20297,59.60449489
+1995,Hydrological,Flood,Flash flood,Philippines (the),South-Eastern Asia,10940,416,7,24478,0,24485,59.60449489
+1995,Hydrological,Flood,Riverine flood,Indonesia,South-Eastern Asia,9,47,0,26000,10000,36000,59.60449489
+1995,Meteorological,Storm,Convective storm,Bangladesh,Southern Asia,160,50,1500,0,50000,51500,59.60449489
+1995,Geophysical,Earthquake,Ground movement,Indonesia,South-Eastern Asia,7,84,1868,52665,35685,90218,59.60449489
+1995,Hydrological,Flood,Riverine flood,Sri Lanka,Southern Asia,27550,3,0,0,120000,120000,59.60449489
+1995,Geophysical,Earthquake,Ground movement,Turkey,Western Asia,6,94,240,120000,40000,160240,59.60449489
+1995,Meteorological,Storm,Tropical cyclone,Philippines (the),South-Eastern Asia,157,6,0,195886,0,195886,59.60449489
+1995,Hydrological,Flood,Riverine flood,Indonesia,South-Eastern Asia,550,18,472,201000,0,201472,59.60449489
+1995,Meteorological,Storm,Tropical cyclone,Bangladesh,Southern Asia,100,172,0,250000,0,250000,59.60449489
+1995,Meteorological,Storm,Tropical cyclone,Philippines (the),South-Eastern Asia,135,146,55,347998,0,348053,59.60449489
+1995,Hydrological,Flood,Riverine flood,Bangladesh,Southern Asia,61220,41,0,351000,0,351000,59.60449489
+1995,Hydrological,Flood,Riverine flood,Viet Nam,South-Eastern Asia,123000,253,0,400000,0,400000,59.60449489
+1995,Hydrological,Flood,Coastal flood,Bangladesh,Southern Asia,44,50,0,351325,110000,461325,59.60449489
+1995,Geophysical,Earthquake,Ground movement,Japan,Eastern Asia,7,5297,34492,255843,251301,541636,59.60449489
+1995,Meteorological,Storm,Tropical cyclone,Philippines (the),South-Eastern Asia,120,184,14,758423,106000,864437,59.60449489
+1996,Meteorological,Storm,Tropical cyclone,Bangladesh,Southern Asia,65,24,100,0,0,100,61.35162973
+1996,Hydrological,Flood,Riverine flood,Indonesia,South-Eastern Asia,67730,34,21,506,0,527,61.35162973
+1996,Hydrological,Flood,Riverine flood,Iran (Islamic Republic of),Southern Asia,4000,5,0,2000,0,2000,61.35162973
+1996,Hydrological,Flood,Riverine flood,Iran (Islamic Republic of),Southern Asia,101600,22,0,0,2000,2000,61.35162973
+1996,Meteorological,Storm,Tropical cyclone,Malaysia,South-Eastern Asia,70,270,26,1150,3000,4176,61.35162973
+1996,Hydrological,Flood,Riverine flood,Yemen,Western Asia,19290,7,0,5000,0,5000,61.35162973
+1996,Hydrological,Flood,Flash flood,Indonesia,South-Eastern Asia,11940,13,7,5000,0,5007,61.35162973
+1996,Meteorological,Storm,Tropical cyclone,Japan,Eastern Asia,210,6,74,5400,264,5738,61.35162973
+1996,Hydrological,Flood,Riverine flood,Afghanistan,Southern Asia,9,70,0,9855,0,9855,61.35162973
+1996,Meteorological,Storm,Tropical cyclone,China,Eastern Asia,139,44,300,0,10000,10300,61.35162973
+1996,Geophysical,Earthquake,Ground movement,Indonesia,South-Eastern Asia,7,9,0,0,13000,13000,61.35162973
+1996,Geophysical,Earthquake,Ground movement,Indonesia,South-Eastern Asia,8,166,423,20125,5090,25638,61.35162973
+1996,Geophysical,Earthquake,Ground movement,China,Eastern Asia,7,26,128,0,33000,33128,61.35162973
+1996,Meteorological,Storm,Tropical cyclone,Philippines (the),South-Eastern Asia,140,26,13,36815,0,36828,61.35162973
+1996,Hydrological,Flood,Riverine flood,India,Southern Asia,177500,388,0,100000,0,100000,61.35162973
+1996,Meteorological,Storm,Tropical cyclone,Bangladesh,Southern Asia,153,525,35691,82600,0,118291,61.35162973
+1996,Hydrological,Flood,Flash flood,Nepal,Southern Asia,60,768,132,137600,13650,151382,61.35162973
+1996,Geophysical,Earthquake,Ground movement,China,Eastern Asia,6,18,300,200000,0,200300,61.35162973
+1996,Hydrological,Flood,Riverine flood,Yemen,Western Asia,191000,338,0,124000,114210,238210,61.35162973
+1996,Meteorological,Storm,Tropical cyclone,Viet Nam,South-Eastern Asia,101,9,0,280000,0,280000,61.35162973
+1996,Meteorological,Storm,Tropical cyclone,India,Southern Asia,180,6,0,335000,0,335000,61.35162973
+1996,Hydrological,Flood,Riverine flood,Viet Nam,South-Eastern Asia,22610,162,0,375000,0,375000,61.35162973
+1996,Meteorological,Storm,Tropical cyclone,Viet Nam,South-Eastern Asia,102,585,591,386500,0,387091,61.35162973
+1996,Hydrological,Flood,Riverine flood,Lao People's Democratic Republic (the),South-Eastern Asia,200,30,0,420000,0,420000,61.35162973
+1997,Hydrological,Flood,Riverine flood,Pakistan,Southern Asia,4,31,56,0,0,56,62.7858352
+1997,Meteorological,Storm,Tropical cyclone,Taiwan (Province of China),Eastern Asia,180,44,78,0,0,78,62.7858352
+1997,Geophysical,Earthquake,Ground movement,Bangladesh,Southern Asia,6,23,200,0,0,200,62.7858352
+1997,Meteorological,Storm,Tropical cyclone,Hong Kong,Eastern Asia,118,1,55,200,0,255,62.7858352
+1997,Hydrological,Flood,Riverine flood,Georgia,Western Asia,31950,4,0,300,0,300,62.7858352
+1997,Meteorological,Storm,Convective storm,Bangladesh,Southern Asia,75,15,500,0,0,500,62.7858352
+1997,Hydrological,Flood,Riverine flood,Iran (Islamic Republic of),Southern Asia,109500,11,0,1400,0,1400,62.7858352
+1997,Meteorological,Storm,Tropical cyclone,Malaysia,South-Eastern Asia,11250,2,0,2115,0,2115,62.7858352
+1997,Geophysical,Earthquake,Ground movement,Indonesia,South-Eastern Asia,6,20,300,2805,0,3105,62.7858352
+1997,Meteorological,Storm,Tropical cyclone,Philippines (the),South-Eastern Asia,120,1,0,4000,0,4000,62.7858352
+1997,Hydrological,Flood,Riverine flood,Sri Lanka,Southern Asia,11300,10,0,5000,0,5000,62.7858352
+1997,Geophysical,Earthquake,Ground movement,Pakistan,Southern Asia,6,50,100,0,10000,10100,62.7858352
+1997,Hydrological,Flood,Riverine flood,Afghanistan,Southern Asia,71,40,0,20000,0,20000,62.7858352
+1997,Geophysical,Earthquake,Ground movement,China,Eastern Asia,5,2,6,0,20000,20006,62.7858352
+1997,Geophysical,Earthquake,Ground movement,Iran (Islamic Republic of),Southern Asia,6,1100,2600,0,36000,38600,62.7858352
+1997,Meteorological,Storm,Tropical cyclone,Philippines (the),South-Eastern Asia,180,18,5,53654,0,53659,62.7858352
+1997,Meteorological,Storm,Tropical cyclone,Japan,Eastern Asia,125,4,0,67000,0,67000,62.7858352
+1997,Geophysical,Earthquake,Ground movement,Iran (Islamic Republic of),Southern Asia,7,1568,2600,72000,0,74600,62.7858352
+1997,Geophysical,Earthquake,Ground movement,Iran (Islamic Republic of),Southern Asia,6,100,2000,55000,27500,84500,62.7858352
+1997,Geophysical,Earthquake,Ground movement,China,Eastern Asia,6,9,89,0,100000,100089,62.7858352
+1997,Hydrological,Flood,Riverine flood,Philippines (the),South-Eastern Asia,18320,18,0,105000,0,105000,62.7858352
+1997,Geophysical,Earthquake,Ground movement,China,Eastern Asia,6,12,40,85000,70000,155040,62.7858352
+1997,Geophysical,Earthquake,Ground movement,India,Southern Asia,6,43,1500,125000,30000,156500,62.7858352
+1997,Hydrological,Flood,Riverine flood,China,Eastern Asia,12110,103,8229,0,363000,371229,62.7858352
+1997,Geophysical,Earthquake,Ground movement,China,Eastern Asia,7,9,89,500000,0,500089,62.7858352
+1997,Meteorological,Storm,Tropical cyclone,Bangladesh,Southern Asia,150,188,63,750000,0,750063,62.7858352
+1997,Meteorological,Storm,Tropical cyclone,China,Eastern Asia,180,140,3000,790000,44000,837000,62.7858352
+1997,Hydrological,Flood,Riverine flood,Pakistan,Southern Asia,1925,140,0,836328,15000,851328,62.7858352
+1997,Hydrological,Flood,Flash flood,Bangladesh,Southern Asia,1200,79,30,800000,100000,900030,62.7858352
+1998,Meteorological,Storm,Tropical cyclone,Japan,Eastern Asia,280,12,43,0,0,43,63.76045524
+1998,Meteorological,Storm,Tropical cyclone,Japan,Eastern Asia,160,12,258,0,0,258,63.76045524
+1998,Geophysical,Earthquake,Ground movement,Indonesia,South-Eastern Asia,6,1,0,310,190,500,63.76045524
+1998,Geophysical,Earthquake,Ground movement,Pakistan,Southern Asia,6,1,11,0,600,611,63.76045524
+1998,Geophysical,Earthquake,Ground movement,Turkey,Western Asia,5,2,0,590,100,690,63.76045524
+1998,Hydrological,Flood,Riverine flood,China,Eastern Asia,575,15,0,1300,0,1300,63.76045524
+1998,Geophysical,Earthquake,Ground movement,Iran (Islamic Republic of),Southern Asia,7,5,50,1450,0,1500,63.76045524
+1998,Geophysical,Earthquake,Ground movement,Iran (Islamic Republic of),Southern Asia,6,12,30,2905,0,2935,63.76045524
+1998,Geophysical,Earthquake,Ground movement,Iran (Islamic Republic of),Southern Asia,5,5,105,4250,0,4355,63.76045524
+1998,Geophysical,Earthquake,Ground movement,Indonesia,South-Eastern Asia,8,33,88,3800,2560,6448,63.76045524
+1998,Hydrological,Flood,Flash flood,Kyrgyzstan,Central Asia,12,1,0,0,7728,7728,63.76045524
+1998,Hydrological,Flood,Riverine flood,Korea (the Democratic People's Republic of),Eastern Asia,430,50,172,10000,0,10172,63.76045524
+1998,Hydrological,Flood,Riverine flood,Viet Nam,South-Eastern Asia,110,45,5,31030,1470,32505,63.76045524
+1998,Geophysical,Earthquake,Ground movement,Afghanistan,Southern Asia,6,2323,818,32000,0,32818,63.76045524
+1998,Meteorological,Storm,Tropical cyclone,Japan,Eastern Asia,126,14,40,40000,0,40040,63.76045524
+1998,Meteorological,Storm,Convective storm,India,Southern Asia,110,250,2500,38000,0,40500,63.76045524
+1998,Hydrological,Flood,Riverine flood,Tajikistan,Central Asia,500,51,39,40935,0,40974,63.76045524
+1998,Hydrological,Flood,Flash flood,Iran (Islamic Republic of),Southern Asia,850,84,2,40000,16000,56002,63.76045524
+1998,Hydrological,Flood,Flash flood,China,Eastern Asia,212000,50,0,80000,0,80000,63.76045524
+1998,Meteorological,Storm,Tropical cyclone,Viet Nam,South-Eastern Asia,150,43,0,81635,3010,84645,63.76045524
+1998,Meteorological,Storm,Tropical cyclone,Bangladesh,Southern Asia,150,19,504,108440,0,108944,63.76045524
+1998,Geophysical,Earthquake,Ground movement,China,Eastern Asia,6,3,7,93855,18000,111862,63.76045524
+1998,Geophysical,Earthquake,Ground movement,Afghanistan,Southern Asia,7,4700,1935,70000,45000,116935,63.76045524
+1998,Meteorological,Storm,Tropical cyclone,Bangladesh,Southern Asia,140,200,0,121000,0,121000,63.76045524
+1998,Hydrological,Flood,Flash flood,Korea (the Republic of),Eastern Asia,804,403,0,0,121000,121000,63.76045524
+1998,Hydrological,Flood,Flash flood,Sri Lanka,Southern Asia,75,1,0,135000,0,135000,63.76045524
+1998,Hydrological,Flood,Riverine flood,Sri Lanka,Southern Asia,75,2,0,154485,75000,229485,63.76045524
+1998,Meteorological,Storm,Tropical cyclone,Philippines (the),South-Eastern Asia,150,69,30,326490,0,326520,63.76045524
+1998,Geophysical,Earthquake,Ground movement,China,Eastern Asia,6,3,1543,312300,23600,337443,63.76045524
+1998,Geophysical,Earthquake,Ground movement,China,Eastern Asia,6,49,12000,542000,44000,598000,63.76045524
+1998,Geophysical,Earthquake,Ground movement,Azerbaijan,Western Asia,6,1,10,700000,0,700010,63.76045524
+1999,Meteorological,Storm,Tropical cyclone,China,Eastern Asia,140,5,12,0,0,12,65.15554686
+1999,Geophysical,Earthquake,Ground movement,Turkey,Western Asia,5,1,166,0,0,166,65.15554686
+1999,Geophysical,Earthquake,Ground movement,Philippines (the),South-Eastern Asia,7,6,40,150,0,190,65.15554686
+1999,Geophysical,Earthquake,Ground movement,Turkey,Western Asia,6,3,200,0,0,200,65.15554686
+1999,Geophysical,Earthquake,Ground movement,Taiwan (Province of China),Eastern Asia,6,1,254,0,0,254,65.15554686
+1999,Geophysical,Earthquake,Ground movement,Turkey,Western Asia,6,6,422,0,0,422,65.15554686
+1999,Meteorological,Storm,Tropical cyclone,Hong Kong,Eastern Asia,234,2,493,0,0,493,65.15554686
+1999,Meteorological,Storm,Convective storm,Bangladesh,Southern Asia,120,3,150,1000,0,1150,65.15554686
+1999,Meteorological,Storm,Tropical cyclone,China,Eastern Asia,234,18,500,800,0,1300,65.15554686
+1999,Geophysical,Earthquake,Ground movement,Iran (Islamic Republic of),Southern Asia,7,1,0,2620,70,2690,65.15554686
+1999,Hydrological,Flood,Flash flood,Philippines (the),South-Eastern Asia,58,34,79,2609,1015,3703,65.15554686
+1999,Geophysical,Earthquake,Ground movement,Iran (Islamic Republic of),Southern Asia,7,20,100,0,4000,4100,65.15554686
+1999,Geophysical,Earthquake,Ground movement,Azerbaijan,Western Asia,5,1,18,750,8400,9168,65.15554686
+1999,Hydrological,Flood,Flash flood,Tajikistan,Central Asia,45,27,23,6366,3003,9392,65.15554686
+1999,Geophysical,Earthquake,Ground movement,Bangladesh,Southern Asia,5,6,200,0,15000,15200,65.15554686
+1999,Geophysical,Earthquake,Ground movement,Indonesia,South-Eastern Asia,7,5,220,14000,2700,16920,65.15554686
+1999,Hydrological,Flood,Flash flood,Thailand,South-Eastern Asia,960,3,0,20000,0,20000,65.15554686
+1999,Hydrological,Flood,Flash flood,Iran (Islamic Republic of),Southern Asia,50100,51,100,20000,0,20100,65.15554686
+1999,Meteorological,Storm,Tropical cyclone,Japan,Eastern Asia,238,26,438,20000,6900,27338,65.15554686
+1999,Hydrological,Flood,Flash flood,Korea (the Republic of),Eastern Asia,440,64,0,24408,5800,30208,65.15554686
+1999,Meteorological,Storm,Tropical cyclone,India,Southern Asia,200,451,0,40696,0,40696,65.15554686
+1999,Hydrological,Flood,Flash flood,Korea (the Democratic People's Republic of),Eastern Asia,1400,42,94,39136,2905,42135,65.15554686
+1999,Hydrological,Flood,Flash flood,Thailand,South-Eastern Asia,162,7,0,90700,0,90700,65.15554686
+1999,Geophysical,Earthquake,Ground movement,Afghanistan,Southern Asia,6,70,500,60185,31275,91960,65.15554686
+1999,Geophysical,Earthquake,Ground movement,Taiwan (Province of China),Eastern Asia,8,2264,8664,0,100000,108664,65.15554686
+1999,Hydrological,Flood,Flash flood,Viet Nam,South-Eastern Asia,500,40,0,106885,8290,115175,65.15554686
+1999,Meteorological,Storm,Tropical cyclone,China,Eastern Asia,144,30,500,115000,7500,123000,65.15554686
+1999,Geophysical,Earthquake,Ground movement,Turkey,Western Asia,7,845,4948,165000,55000,224948,65.15554686
+1999,Hydrological,Flood,Riverine flood,Bangladesh,Southern Asia,60,31,20,421250,20000,441270,65.15554686
+1999,Geophysical,Earthquake,Ground movement,India,Southern Asia,7,100,394,372000,105500,477894,65.15554686
+1999,Hydrological,Flood,Flash flood,Cambodia,South-Eastern Asia,120,7,0,527904,8000,535904,65.15554686
+1999,Meteorological,Storm,Tropical cyclone,Pakistan,Southern Asia,270,231,155,315040,220745,535940,65.15554686
+2000,Meteorological,Storm,Tropical cyclone,Taiwan (Province of China),Eastern Asia,120,89,2,0,0,2,67.35575898
+2000,Geophysical,Earthquake,Ground movement,Japan,Eastern Asia,6,1,0,100,0,100,67.35575898
+2000,Meteorological,Storm,Tropical cyclone,Bangladesh,Southern Asia,100,15,200,0,0,200,67.35575898
+2000,Meteorological,Storm,Tropical cyclone,Korea (the Republic of),Eastern Asia,209,25,0,0,300,300,67.35575898
+2000,Hydrological,Flood,Flash flood,Iran (Islamic Republic of),Southern Asia,16200,8,0,400,0,400,67.35575898
+2000,Hydrological,Flood,Flash flood,Korea (the Republic of),Eastern Asia,27590,7,0,500,0,500,67.35575898
+2000,Meteorological,Storm,Tropical cyclone,Japan,Eastern Asia,126,4,0,900,0,900,67.35575898
+2000,Geophysical,Earthquake,Ground movement,Turkey,Western Asia,5,1,0,1000,0,1000,67.35575898
+2000,Hydrological,Flood,Riverine flood,Turkey,Western Asia,17000,2,0,1000,0,1000,67.35575898
+2000,Geophysical,Earthquake,Ground movement,Iran (Islamic Republic of),Southern Asia,5,1,15,1500,500,2015,67.35575898
+2000,Meteorological,Storm,Tropical cyclone,Taiwan (Province of China),Eastern Asia,322,14,100,0,2000,2100,67.35575898
+2000,Geophysical,Earthquake,Ground movement,Indonesia,South-Eastern Asia,7,1,0,3000,0,3000,67.35575898
+2000,Geophysical,Earthquake,Ground movement,Azerbaijan,Western Asia,7,31,600,2694,0,3294,67.35575898
+2000,Meteorological,Storm,Tropical cyclone,Viet Nam,South-Eastern Asia,120,5,29,0,6000,6029,67.35575898
+2000,Geophysical,Earthquake,Ground movement,China,Eastern Asia,5,1,2,10300,0,10302,67.35575898
+2000,Geophysical,Earthquake,Ground movement,Turkey,Western Asia,6,2,80,23000,0,23080,67.35575898
+2000,Hydrological,Flood,Riverine flood,Viet Nam,South-Eastern Asia,49140,36,3,25000,0,25003,67.35575898
+2000,Hydrological,Flood,Riverine flood,China,Eastern Asia,76000,43,10,0,31000,31010,67.35575898
+2000,Hydrological,Flood,Flash flood,Indonesia,South-Eastern Asia,590,38,0,39852,0,39852,67.35575898
+2000,Hydrological,Flood,Riverine flood,China,Eastern Asia,21000,15,0,40000,0,40000,67.35575898
+2000,Meteorological,Storm,Tropical cyclone,China,Eastern Asia,160,47,0,46000,0,46000,67.35575898
+2000,Hydrological,Flood,Flash flood,Indonesia,South-Eastern Asia,11400,126,0,50000,0,50000,67.35575898
+2000,Geophysical,Earthquake,Ground movement,Indonesia,South-Eastern Asia,8,45,270,0,52500,52770,67.35575898
+2000,Meteorological,Storm,Tropical cyclone,Bangladesh,Southern Asia,120,20,300,0,62500,62800,67.35575898
+2000,Hydrological,Flood,Riverine flood,Sri Lanka,Southern Asia,8000,2,0,100000,0,100000,67.35575898
+2000,Meteorological,Storm,Tropical cyclone,Philippines (the),South-Eastern Asia,185,11,0,0,120000,120000,67.35575898
+2000,Hydrological,Flood,Flash flood,Philippines (the),South-Eastern Asia,16700,50,0,153885,0,153885,67.35575898
+2000,Hydrological,Flood,Flash flood,China,Eastern Asia,114000,34,183,154000,0,154183,67.35575898
+2000,Meteorological,Storm,Tropical cyclone,Philippines (the),South-Eastern Asia,135,48,26,164067,0,164093,67.35575898
+2000,Geophysical,Earthquake,Ground movement,China,Eastern Asia,5,1,211,0,177400,177611,67.35575898
+2000,Meteorological,Storm,Tropical cyclone,Japan,Eastern Asia,160,9,41,180000,0,180041,67.35575898
+2000,Hydrological,Flood,Flash flood,China,Eastern Asia,11170,10,0,200000,0,200000,67.35575898
+2000,Hydrological,Flood,Flash flood,Bangladesh,Southern Asia,17000,11,50,200000,0,200050,67.35575898
+2000,Geophysical,Earthquake,Ground movement,Indonesia,South-Eastern Asia,7,103,2714,200000,2000,204714,67.35575898
+2000,Hydrological,Flood,Flash flood,India,Southern Asia,129500,179,16,0,252000,252016,67.35575898
+2000,Hydrological,Flood,Riverine flood,Sri Lanka,Southern Asia,7600,3,0,300000,0,300000,67.35575898
+2000,Meteorological,Storm,Tropical cyclone,Sri Lanka,Southern Asia,150,5,0,375000,0,375000,67.35575898
+2000,Hydrological,Flood,Riverine flood,Indonesia,South-Eastern Asia,300,100,21,386000,0,386021,67.35575898
+2000,Hydrological,Flood,Riverine flood,Thailand,South-Eastern Asia,630,51,570,808231,0,808801,67.35575898
+2001,Meteorological,Storm,Tropical cyclone,Taiwan (Province of China),Eastern Asia,140,1,6,0,0,6,69.25933995
+2001,Hydrological,Flood,Riverine flood,China,Eastern Asia,6800,46,17,0,0,17,69.25933995
+2001,Meteorological,Storm,Tropical cyclone,Taiwan (Province of China),Eastern Asia,225,9,116,0,0,116,69.25933995
+2001,Meteorological,Storm,Convective storm,Syrian Arab Republic,Western Asia,100,27,172,0,0,172,69.25933995
+2001,Meteorological,Storm,Tropical cyclone,Bangladesh,Southern Asia,100,12,200,0,0,200,69.25933995
+2001,Geophysical,Earthquake,Ground movement,Afghanistan,Southern Asia,5,4,20,0,250,270,69.25933995
+2001,Hydrological,Flood,Flash flood,Philippines (the),South-Eastern Asia,190,4,0,300,0,300,69.25933995
+2001,Hydrological,Flood,Riverine flood,Turkey,Western Asia,4900,4,0,450,0,450,69.25933995
+2001,Hydrological,Flood,Riverine flood,Turkey,Western Asia,14880,5,0,570,0,570,69.25933995
+2001,Hydrological,Flood,Riverine flood,Iran (Islamic Republic of),Southern Asia,7440,32,34,1000,0,1034,69.25933995
+2001,Meteorological,Storm,Tropical cyclone,Japan,Eastern Asia,126,7,15,1200,0,1215,69.25933995
+2001,Hydrological,Flood,Flash flood,Iran (Islamic Republic of),Southern Asia,2130,32,50,1250,0,1300,69.25933995
+2001,Hydrological,Flood,Riverine flood,Turkey,Western Asia,1610,3,0,1500,0,1500,69.25933995
+2001,Hydrological,Flood,Riverine flood,Indonesia,South-Eastern Asia,9125,15,0,0,2000,2000,69.25933995
+2001,Hydrological,Flood,Riverine flood,Timor-Leste,South-Eastern Asia,370,1,0,2508,0,2508,69.25933995
+2001,Hydrological,Flood,Riverine flood,China,Eastern Asia,5570,35,72,0,2630,2702,69.25933995
+2001,Hydrological,Flood,Riverine flood,China,Eastern Asia,4800,66,3110,0,0,3110,69.25933995
+2001,Hydrological,Flood,Riverine flood,Indonesia,South-Eastern Asia,1270,257,4,0,3690,3694,69.25933995
+2001,Hydrological,Flood,Flash flood,Thailand,South-Eastern Asia,19750,83,30,0,4100,4130,69.25933995
+2001,Meteorological,Storm,Tropical cyclone,Japan,Eastern Asia,109,9,40,7000,0,7040,69.25933995
+2001,Hydrological,Flood,Riverine flood,Korea (the Democratic People's Republic of),Eastern Asia,5050,10,0,0,10000,10000,69.25933995
+2001,Meteorological,Storm,Tropical cyclone,Viet Nam,South-Eastern Asia,196,3,3,0,10000,10003,69.25933995
+2001,Geophysical,Earthquake,Ground movement,China,Eastern Asia,6,2,605,0,10000,10605,69.25933995
+2001,Geophysical,Earthquake,Ground movement,Japan,Eastern Asia,7,2,161,11100,0,11261,69.25933995
+2001,Hydrological,Flood,Riverine flood,Philippines (the),South-Eastern Asia,845,2,0,12000,0,12000,69.25933995
+2001,Hydrological,Flood,Flash flood,Korea (the Republic of),Eastern Asia,2230,8,0,15000,0,15000,69.25933995
+2001,Geophysical,Earthquake,Ground movement,China,Eastern Asia,6,1,220,0,17000,17220,69.25933995
+2001,Hydrological,Flood,Riverine flood,Malaysia,South-Eastern Asia,22940,11,0,18000,0,18000,69.25933995
+2001,Meteorological,Storm,Convective storm,Bangladesh,Southern Asia,150,12,450,25000,0,25450,69.25933995
+2001,Hydrological,Flood,Flash flood,Viet Nam,South-Eastern Asia,72000,20,6,35000,0,35006,69.25933995
+2001,Hydrological,Flood,Riverine flood,India,Southern Asia,4470,86,0,40000,0,40000,69.25933995
+2001,Hydrological,Flood,Flash flood,Philippines (the),South-Eastern Asia,31880,37,0,79000,0,79000,69.25933995
+2001,Meteorological,Storm,Tropical cyclone,Philippines (the),South-Eastern Asia,45,55,84,0,100000,100084,69.25933995
+2001,Geophysical,Earthquake,Ground movement,China,Eastern Asia,6,2,190,150000,0,150190,69.25933995
+2001,Hydrological,Flood,Flash flood,Korea (the Democratic People's Republic of),Eastern Asia,13150,114,84,157500,20000,177584,69.25933995
+2001,Hydrological,Flood,Flash flood,China,Eastern Asia,14700,27,0,0,250000,250000,69.25933995
+2001,Hydrological,Flood,Flash flood,Korea (the Republic of),Eastern Asia,2230,62,0,295000,0,295000,69.25933995
+2001,Hydrological,Flood,Riverine flood,China,Eastern Asia,3600,166,0,300000,0,300000,69.25933995
+2001,Geophysical,Earthquake,Ground movement,China,Eastern Asia,6,3,109,0,300000,300109,69.25933995
+2001,Hydrological,Flood,Flash flood,Pakistan,Southern Asia,111100,210,179,400000,0,400179,69.25933995
+2001,Hydrological,Flood,Flash flood,Thailand,South-Eastern Asia,4160,104,109,450000,0,450109,69.25933995
+2001,Geophysical,Earthquake,Ground movement,Pakistan,Southern Asia,8,12,100,914192,0,914292,69.25933995
+2002,Hydrological,Flood,Riverine flood,Indonesia,South-Eastern Asia,1490,21,0,40,0,40,70.35781897
+2002,Hydrological,Flood,Riverine flood,India,Southern Asia,6770,33,50,0,0,50,70.35781897
+2002,Geophysical,Earthquake,Ground movement,Indonesia,South-Eastern Asia,7,3,60,0,0,60,70.35781897
+2002,Meteorological,Storm,Tropical cyclone,Oman,Western Asia,100,7,33,50,0,83,70.35781897
+2002,Geophysical,Earthquake,Ground movement,India,Southern Asia,7,2,0,0,200,200,70.35781897
+2002,Geophysical,Earthquake,Ground movement,Taiwan (Province of China),Eastern Asia,7,4,200,300,0,500,70.35781897
+2002,Geophysical,Earthquake,Ground movement,Iran (Islamic Republic of),Southern Asia,5,1,30,750,0,780,70.35781897
+2002,Hydrological,Flood,Riverine flood,Indonesia,South-Eastern Asia,942,14,0,780,0,780,70.35781897
+2002,Geophysical,Earthquake,Ground movement,Tajikistan,Central Asia,5,3,50,1000,0,1050,70.35781897
+2002,Hydrological,Flood,Riverine flood,Afghanistan,Southern Asia,3650,7,0,1200,0,1200,70.35781897
+2002,Hydrological,Flood,Riverine flood,Tajikistan,Central Asia,1160,8,0,0,1500,1500,70.35781897
+2002,Hydrological,Flood,Flash flood,Tajikistan,Central Asia,400,24,13,450,1250,1713,70.35781897
+2002,Hydrological,Flood,Riverine flood,Indonesia,South-Eastern Asia,4170,13,0,2000,0,2000,70.35781897
+2002,Hydrological,Flood,Riverine flood,Viet Nam,South-Eastern Asia,27820,10,0,2000,0,2000,70.35781897
+2002,Hydrological,Flood,Riverine flood,Turkey,Western Asia,15130,34,0,3000,0,3000,70.35781897
+2002,Hydrological,Flood,Riverine flood,Pakistan,Southern Asia,4900,22,10,3000,0,3010,70.35781897
+2002,Geophysical,Earthquake,Ground movement,Afghanistan,Southern Asia,6,150,13,3500,0,3513,70.35781897
+2002,Hydrological,Flood,Coastal flood,Philippines (the),South-Eastern Asia,11680,26,59,3500,0,3559,70.35781897
+2002,Hydrological,Flood,Riverine flood,Afghanistan,Southern Asia,1170,39,0,4225,0,4225,70.35781897
+2002,Hydrological,Flood,Riverine flood,Iran (Islamic Republic of),Southern Asia,59660,11,0,0,4500,4500,70.35781897
+2002,Hydrological,Flood,Riverine flood,India,Southern Asia,79000,22,0,5000,0,5000,70.35781897
+2002,Geophysical,Earthquake,Ground movement,Afghanistan,Southern Asia,6,50,150,6000,0,6150,70.35781897
+2002,Hydrological,Flood,Coastal flood,Philippines (the),South-Eastern Asia,12840,18,0,7000,0,7000,70.35781897
+2002,Geophysical,Earthquake,Tsunami,Indonesia,South-Eastern Asia,8,8,632,8450,0,9082,70.35781897
+2002,Meteorological,Storm,Tropical cyclone,Philippines (the),South-Eastern Asia,160,62,0,11000,0,11000,70.35781897
+2002,Hydrological,Flood,Riverine flood,China,Eastern Asia,127600,11,12,10000,2300,12312,70.35781897
+2002,Geophysical,Earthquake,Ground movement,Pakistan,Southern Asia,5,17,65,11000,4000,15065,70.35781897
+2002,Geophysical,Earthquake,Ground movement,Georgia,Western Asia,5,6,70,18000,1086,19156,70.35781897
+2002,Geophysical,Earthquake,Ground movement,Iran (Islamic Republic of),Southern Asia,5,2,56,20000,0,20056,70.35781897
+2002,Hydrological,Flood,Riverine flood,Philippines (the),South-Eastern Asia,5280,35,0,50000,0,50000,70.35781897
+2002,Geophysical,Earthquake,Ground movement,China,Eastern Asia,6,2,0,65500,0,65500,70.35781897
+2002,Geophysical,Earthquake,Ground movement,Philippines (the),South-Eastern Asia,8,15,100,73351,0,73451,70.35781897
+2002,Hydrological,Flood,Riverine flood,Indonesia,South-Eastern Asia,17000,13,0,87000,0,87000,70.35781897
+2002,Meteorological,Storm,Tropical cyclone,Korea (the Republic of),Eastern Asia,204,184,0,88625,0,88625,70.35781897
+2002,Geophysical,Earthquake,Ground movement,Afghanistan,Southern Asia,6,1000,1228,80000,10000,91228,70.35781897
+2002,Hydrological,Flood,Riverine flood,Philippines (the),South-Eastern Asia,13420,11,8,95000,0,95008,70.35781897
+2002,Geophysical,Earthquake,Ground movement,Iran (Islamic Republic of),Southern Asia,7,227,1300,110000,0,111300,70.35781897
+2002,Geophysical,Earthquake,Ground movement,Pakistan,Southern Asia,6,19,40,140742,0,140782,70.35781897
+2002,Hydrological,Flood,Riverine flood,Iran (Islamic Republic of),Southern Asia,9720,39,0,200000,0,200000,70.35781897
+2002,Geophysical,Earthquake,Ground movement,Turkey,Western Asia,7,42,327,222000,30000,252327,70.35781897
+2002,Hydrological,Flood,Riverine flood,Viet Nam,South-Eastern Asia,19980,55,116,291500,0,291616,70.35781897
+2002,Hydrological,Flood,Riverine flood,Sri Lanka,Southern Asia,14150,2,0,500000,0,500000,70.35781897
+2002,Hydrological,Flood,Riverine flood,Indonesia,South-Eastern Asia,41000,150,750,500000,0,500750,70.35781897
+2002,Meteorological,Storm,Tropical cyclone,Philippines (the),South-Eastern Asia,170,33,41,700000,0,700041,70.35781897
+2002,Hydrological,Flood,Riverine flood,China,Eastern Asia,17270,178,311,999000,0,999311,70.35781897
+2003,Geophysical,Earthquake,Ground movement,Turkey,Western Asia,6,1,2,0,0,2,71.95500655
+2003,Hydrological,Flood,Riverine flood,Afghanistan,Southern Asia,2580,24,3,0,0,3,71.95500655
+2003,Hydrological,Flood,Flash flood,Pakistan,Southern Asia,3519,36,20,0,0,20,71.95500655
+2003,Meteorological,Storm,Tropical cyclone,Hong Kong,Eastern Asia,180,4,22,0,0,22,71.95500655
+2003,Hydrological,Flood,Riverine flood,Afghanistan,Southern Asia,2650,13,0,100,0,100,71.95500655
+2003,Meteorological,Storm,Tropical cyclone,Japan,Eastern Asia,200,1,93,130,0,223,71.95500655
+2003,Geophysical,Earthquake,Ground movement,Indonesia,South-Eastern Asia,7,1,7,100,140,247,71.95500655
+2003,Hydrological,Flood,Flash flood,Afghanistan,Southern Asia,1440,33,0,0,250,250,71.95500655
+2003,Meteorological,Storm,Tropical cyclone,Bangladesh,Southern Asia,120,23,400,0,0,400,71.95500655
+2003,Hydrological,Flood,Riverine flood,Timor-Leste,South-Eastern Asia,12930,3,0,600,0,600,71.95500655
+2003,Geophysical,Earthquake,Ground movement,Japan,Eastern Asia,7,2,773,0,0,773,71.95500655
+2003,Hydrological,Flood,Riverine flood,Japan,Eastern Asia,8080,23,14,800,0,814,71.95500655
+2003,Hydrological,Flood,Flash flood,Afghanistan,Southern Asia,14990,30,0,0,1000,1000,71.95500655
+2003,Hydrological,Flood,Riverine flood,Viet Nam,South-Eastern Asia,31350,15,0,1000,0,1000,71.95500655
+2003,Geophysical,Earthquake,Ground movement,Afghanistan,Southern Asia,5,1,1,0,1000,1001,71.95500655
+2003,Hydrological,Flood,Flash flood,Indonesia,South-Eastern Asia,600,241,30,1468,0,1498,71.95500655
+2003,Hydrological,Flood,Flash flood,Mongolia,Eastern Asia,281900,15,0,1500,150,1650,71.95500655
+2003,Hydrological,Flood,Riverine flood,Tajikistan,Central Asia,1700,6,0,975,780,1755,71.95500655
+2003,Hydrological,Flood,Riverine flood,Afghanistan,Southern Asia,1250,11,0,0,2000,2000,71.95500655
+2003,Meteorological,Storm,Tropical cyclone,Japan,Eastern Asia,145,20,80,2100,0,2180,71.95500655
+2003,Geophysical,Earthquake,Ground movement,Bangladesh,Southern Asia,6,2,25,2500,0,2525,71.95500655
+2003,Meteorological,Storm,Tropical cyclone,India,Southern Asia,100,45,4000,0,600,4600,71.95500655
+2003,Geophysical,Earthquake,Ground movement,China,Eastern Asia,6,11,73,3510,2435,6018,71.95500655
+2003,Hydrological,Flood,Riverine flood,China,Eastern Asia,2290,13,0,8000,0,8000,71.95500655
+2003,Geophysical,Earthquake,Ground movement,China,Eastern Asia,6,1,3,0,8000,8003,71.95500655
+2003,Meteorological,Storm,Tropical cyclone,Philippines (the),South-Eastern Asia,200,21,0,14280,0,14280,71.95500655
+2003,Geophysical,Earthquake,Ground movement,Iran (Islamic Republic of),Southern Asia,6,1,25,0,17500,17525,71.95500655
+2003,Geophysical,Earthquake,Ground movement,China,Eastern Asia,5,1,126,18243,5000,23369,71.95500655
+2003,Hydrological,Flood,Riverine flood,Indonesia,South-Eastern Asia,1500,8,0,25000,0,25000,71.95500655
+2003,Hydrological,Flood,Riverine flood,Indonesia,South-Eastern Asia,540,3,0,33000,0,33000,71.95500655
+2003,Geophysical,Earthquake,Ground movement,Kazakhstan,Central Asia,6,3,626,36000,0,36626,71.95500655
+2003,Meteorological,Storm,Tropical cyclone,India,Southern Asia,100,50,0,0,40000,40000,71.95500655
+2003,Hydrological,Flood,Riverine flood,Nepal,Southern Asia,137100,239,284,43395,15575,59254,71.95500655
+2003,Geophysical,Earthquake,Ground movement,China,Eastern Asia,6,3,56,60000,0,60056,71.95500655
+2003,Meteorological,Storm,Tropical cyclone,Korea (the Republic of),Eastern Asia,216,130,0,65000,15000,80000,71.95500655
+2003,Meteorological,Storm,Tropical cyclone,Philippines (the),South-Eastern Asia,140,13,3,46472,80655,127130,71.95500655
+2003,Hydrological,Flood,Riverine flood,Viet Nam,South-Eastern Asia,362,61,34,185135,8880,194049,71.95500655
+2003,Hydrological,Flood,Riverine flood,China,Eastern Asia,471100,123,0,0,200000,200000,71.95500655
+2003,Hydrological,Flood,Coastal flood,Viet Nam,South-Eastern Asia,10630,52,29,216745,5000,221774,71.95500655
+2003,Geophysical,Earthquake,Ground movement,Iran (Islamic Republic of),Southern Asia,7,26796,22628,200000,45000,267628,71.95500655
+2003,Geophysical,Earthquake,Ground movement,China,Eastern Asia,6,9,43,50000,225000,275043,71.95500655
+2003,Geophysical,Earthquake,Ground movement,Turkey,Western Asia,6,177,520,245000,45000,290520,71.95500655
+2003,Hydrological,Flood,Riverine flood,Indonesia,South-Eastern Asia,79400,148,0,350000,0,350000,71.95500655
+2003,Geophysical,Earthquake,Ground movement,China,Eastern Asia,5,4,1000,415000,39500,455500,71.95500655
+2003,Geophysical,Earthquake,Ground movement,China,Eastern Asia,6,4,65,490000,3000,493065,71.95500655
+2003,Hydrological,Flood,Flash flood,Bangladesh,Southern Asia,4230,65,0,500000,0,500000,71.95500655
+2003,Geophysical,Earthquake,Ground movement,China,Eastern Asia,6,268,4000,510000,3000,517000,71.95500655
+2003,Hydrological,Flood,Flash flood,Sri Lanka,Southern Asia,13490,235,0,695000,0,695000,71.95500655
+2004,Meteorological,Storm,Tropical cyclone,Taiwan (Province of China),Eastern Asia,130,32,2,0,0,2,73.88141244
+2004,Hydrological,Flood,Flash flood,Viet Nam,South-Eastern Asia,12020,53,18,0,0,18,73.88141244
+2004,Hydrological,Flood,Riverine flood,Georgia,Western Asia,2160,1,0,0,90,90,73.88141244
+2004,Hydrological,Flood,Flash flood,Turkey,Western Asia,16750,2,0,100,0,100,73.88141244
+2004,Meteorological,Storm,Convective storm,Syrian Arab Republic,Western Asia,150,5,180,0,0,180,73.88141244
+2004,Geophysical,Earthquake,Ground movement,Turkey,Western Asia,5,18,21,335,0,356,73.88141244
+2004,Hydrological,Flood,Riverine flood,Saudi Arabia,Western Asia,2680,5,30,400,0,430,73.88141244
+2004,Geophysical,Earthquake,Ground movement,Iran (Islamic Republic of),Southern Asia,6,35,278,220,0,498,73.88141244
+2004,Geophysical,Earthquake,Ground movement,Indonesia,South-Eastern Asia,5,5,7,500,0,507,73.88141244
+2004,Meteorological,Storm,Tropical cyclone,Philippines (the),South-Eastern Asia,260,31,14,0,700,714,73.88141244
+2004,Hydrological,Flood,Flash flood,China,Eastern Asia,9850,3,0,740,0,740,73.88141244
+2004,Meteorological,Storm,Tropical cyclone,Japan,Eastern Asia,285,6,56,700,0,756,73.88141244
+2004,Meteorological,Storm,Tropical cyclone,Viet Nam,South-Eastern Asia,65,14,5,900,0,905,73.88141244
+2004,Hydrological,Flood,Riverine flood,India,Southern Asia,9000,45,0,1000,0,1000,73.88141244
+2004,Geophysical,Earthquake,Ground movement,Afghanistan,Southern Asia,5,2,40,0,1000,1040,73.88141244
+2004,Hydrological,Flood,Flash flood,Philippines (the),South-Eastern Asia,2080,15,0,0,1500,1500,73.88141244
+2004,Meteorological,Storm,Tropical cyclone,Taiwan (Province of China),Eastern Asia,205,7,100,1600,0,1700,73.88141244
+2004,Hydrological,Flood,Riverine flood,Afghanistan,Southern Asia,78940,16,0,300,1700,2000,73.88141244
+2004,Meteorological,Storm,Tropical cyclone,Korea (the Republic of),Eastern Asia,75,8,0,0,2400,2400,73.88141244
+2004,Meteorological,Storm,Convective storm,Indonesia,South-Eastern Asia,75,4,0,2400,0,2400,73.88141244
+2004,Geophysical,Earthquake,Ground movement,Turkey,Western Asia,6,9,30,4000,0,4030,73.88141244
+2004,Hydrological,Flood,Flash flood,Iran (Islamic Republic of),Southern Asia,436700,34,43,0,4000,4043,73.88141244
+2004,Hydrological,Flood,Riverine flood,Viet Nam,South-Eastern Asia,3300,9,0,5000,0,5000,73.88141244
+2004,Geophysical,Earthquake,Tsunami,Malaysia,South-Eastern Asia,9,80,767,0,4296,5063,73.88141244
+2004,Meteorological,Storm,Tropical cyclone,Japan,Eastern Asia,260,11,44,5904,0,5948,73.88141244
+2004,Hydrological,Flood,Riverine flood,Malaysia,South-Eastern Asia,32620,3,0,6900,0,6900,73.88141244
+2004,Meteorological,Storm,Tropical cyclone,Japan,Eastern Asia,126,11,0,8502,0,8502,73.88141244
+2004,Meteorological,Storm,Tropical cyclone,Japan,Eastern Asia,220,25,89,10000,0,10089,73.88141244
+2004,Geophysical,Earthquake,Ground movement,Indonesia,South-Eastern Asia,7,32,213,12620,0,12833,73.88141244
+2004,Meteorological,Storm,Convective storm,Bangladesh,Southern Asia,120,76,3000,0,10000,13000,73.88141244
+2004,Hydrological,Flood,Riverine flood,Indonesia,South-Eastern Asia,280,5,0,13000,0,13000,73.88141244
+2004,Geophysical,Earthquake,Ground movement,Pakistan,Southern Asia,6,24,63,10765,2320,13148,73.88141244
+2004,Geophysical,Earthquake,Ground movement,Indonesia,South-Eastern Asia,7,37,682,13390,0,14072,73.88141244
+2004,Geophysical,Earthquake,Tsunami,Myanmar,South-Eastern Asia,9,71,0,12500,3200,15700,73.88141244
+2004,Hydrological,Flood,Riverine flood,Philippines (the),South-Eastern Asia,20370,7,0,20000,0,20000,73.88141244
+2004,Meteorological,Storm,Tropical cyclone,Myanmar,South-Eastern Asia,160,236,0,0,25000,25000,73.88141244
+2004,Hydrological,Flood,Flash flood,Japan,Eastern Asia,7060,21,7,20000,5800,25807,73.88141244
+2004,Geophysical,Earthquake,Tsunami,Maldives,Southern Asia,9,102,2214,12000,13000,27214,73.88141244
+2004,Hydrological,Flood,Riverine flood,Viet Nam,South-Eastern Asia,47760,34,0,30000,0,30000,73.88141244
+2004,Geophysical,Earthquake,Ground movement,Indonesia,South-Eastern Asia,6,1,40,30000,0,30040,73.88141244
+2004,Meteorological,Storm,Tropical cyclone,Japan,Eastern Asia,230,41,900,40000,0,40900,73.88141244
+2004,Meteorological,Storm,Tropical cyclone,China,Eastern Asia,140,2,7,0,41350,41357,73.88141244
+2004,Geophysical,Earthquake,Ground movement,Japan,Eastern Asia,7,40,3183,59000,0,62183,73.88141244
+2004,Geophysical,Earthquake,Tsunami,Thailand,South-Eastern Asia,9,8345,8457,58550,0,67007,73.88141244
+2004,Meteorological,Storm,Tropical cyclone,Philippines (the),South-Eastern Asia,240,8,8,70480,0,70488,73.88141244
+2004,Geophysical,Earthquake,Ground movement,Indonesia,South-Eastern Asia,8,33,311,83070,0,83381,73.88141244
+2004,Meteorological,Storm,Tropical cyclone,Japan,Eastern Asia,230,89,342,84450,0,84792,73.88141244
+2004,Hydrological,Flood,Riverine flood,China,Eastern Asia,47480,5,0,90000,0,90000,73.88141244
+2004,Geophysical,Earthquake,Ground movement,China,Eastern Asia,5,4,600,0,120000,120600,73.88141244
+2004,Hydrological,Flood,Riverine flood,China,Eastern Asia,92250,47,500,168000,0,168500,73.88141244
+2004,Meteorological,Storm,Tropical cyclone,Japan,Eastern Asia,126,14,50,180000,0,180050,73.88141244
+2004,Hydrological,Flood,Riverine flood,Sri Lanka,Southern Asia,23460,6,0,200000,0,200000,73.88141244
+2004,Meteorological,Storm,Tropical cyclone,Philippines (the),South-Eastern Asia,230,28,12,385000,0,385012,73.88141244
+2004,Hydrological,Flood,Riverine flood,Thailand,South-Eastern Asia,154400,9,0,500000,0,500000,73.88141244
+2004,Geophysical,Earthquake,Tsunami,Indonesia,South-Eastern Asia,9,165708,0,0,532898,532898,73.88141244
+2004,Geophysical,Earthquake,Tsunami,India,Southern Asia,9,16389,6913,647599,0,654512,73.88141244
+2004,Hydrological,Flood,Riverine flood,Nepal,Southern Asia,37430,185,15,800000,0,800015,73.88141244
+2004,Meteorological,Storm,Tropical cyclone,Philippines (the),South-Eastern Asia,215,104,240,838434,0,838674,73.88141244
+2005,Meteorological,Storm,Tropical cyclone,Philippines (the),South-Eastern Asia,120,18,0,11,0,11,76.38802721
+2005,Hydrological,Flood,Riverine flood,China,Eastern Asia,390,16,23,0,0,23,76.38802721
+2005,Meteorological,Storm,Tropical cyclone,Taiwan (Province of China),Eastern Asia,227,3,59,0,0,59,76.38802721
+2005,Hydrological,Flood,Flash flood,Saudi Arabia,Western Asia,22760,29,17,50,0,67,76.38802721
+2005,Meteorological,Storm,Tropical cyclone,Japan,Eastern Asia,108,3,4,90,0,94,76.38802721
+2005,Geophysical,Earthquake,Ground movement,Iran (Islamic Republic of),Southern Asia,6,13,100,0,0,100,76.38802721
+2005,Geophysical,Earthquake,Ground movement,Turkey,Western Asia,6,2,22,400,0,422,76.38802721
+2005,Hydrological,Flood,Flash flood,China,Eastern Asia,2330,117,25,400,0,425,76.38802721
+2005,Hydrological,Flood,Riverine flood,Afghanistan,Southern Asia,82360,20,0,500,0,500,76.38802721
+2005,Geophysical,Earthquake,Ground movement,Afghanistan,Southern Asia,7,5,1,500,0,501,76.38802721
+2005,Hydrological,Flood,Flash flood,Malaysia,South-Eastern Asia,1470,4,0,600,0,600,76.38802721
+2005,Geophysical,Earthquake,Ground movement,Indonesia,South-Eastern Asia,6,1,4,680,0,684,76.38802721
+2005,Hydrological,Flood,Flash flood,Indonesia,South-Eastern Asia,1730,47,18,750,0,768,76.38802721
+2005,Hydrological,Flood,Riverine flood,Afghanistan,Southern Asia,46050,3,0,0,1500,1500,76.38802721
+2005,Meteorological,Storm,Tropical cyclone,Taiwan (Province of China),Eastern Asia,220,12,34,1500,0,1534,76.38802721
+2005,Hydrological,Flood,Riverine flood,Nepal,Southern Asia,8030,51,0,1600,0,1600,76.38802721
+2005,Hydrological,Flood,Riverine flood,Iran (Islamic Republic of),Southern Asia,4900,43,0,0,1750,1750,76.38802721
+2005,Hydrological,Flood,Riverine flood,India,Southern Asia,308700,23,4,0,2500,2504,76.38802721
+2005,Hydrological,Flood,Flash flood,Taiwan (Province of China),Eastern Asia,3540,16,0,2700,0,2700,76.38802721
+2005,Hydrological,Flood,Riverine flood,Iran (Islamic Republic of),Southern Asia,23040,3,0,3000,0,3000,76.38802721
+2005,Hydrological,Flood,Riverine flood,Tajikistan,Central Asia,5930,8,0,2877,345,3222,76.38802721
+2005,Hydrological,Flood,Flash flood,Pakistan,Southern Asia,75650,20,0,0,3500,3500,76.38802721
+2005,Geophysical,Earthquake,Ground movement,Japan,Eastern Asia,7,1,735,2800,0,3535,76.38802721
+2005,Hydrological,Flood,Riverine flood,India,Southern Asia,6530,6,0,5000,0,5000,76.38802721
+2005,Hydrological,Flood,Riverine flood,Pakistan,Southern Asia,104000,15,0,5000,0,5000,76.38802721
+2005,Hydrological,Flood,Flash flood,China,Eastern Asia,2020,8,0,8842,0,8842,76.38802721
+2005,Hydrological,Flood,Riverine flood,Viet Nam,South-Eastern Asia,8370,17,0,10000,0,10000,76.38802721
+2005,Hydrological,Flood,Riverine flood,Afghanistan,Southern Asia,275300,200,3,11000,0,11003,76.38802721
+2005,Meteorological,Storm,Convective storm,Bangladesh,Southern Asia,100,79,1500,0,10000,11500,76.38802721
+2005,Hydrological,Flood,Flash flood,Indonesia,South-Eastern Asia,2460,28,211,12000,0,12211,76.38802721
+2005,Hydrological,Flood,Riverine flood,China,Eastern Asia,43680,28,0,14500,0,14500,76.38802721
+2005,Hydrological,Flood,Flash flood,Korea (the Republic of),Eastern Asia,9970,18,0,13010,1500,14510,76.38802721
+2005,Hydrological,Flood,Flash flood,Korea (the Democratic People's Republic of),Eastern Asia,2590,193,205,0,16093,16298,76.38802721
+2005,Hydrological,Flood,Riverine flood,Viet Nam,South-Eastern Asia,63090,69,0,0,18000,18000,76.38802721
+2005,Meteorological,Storm,Tropical cyclone,Philippines (the),South-Eastern Asia,95,16,0,20000,0,20000,76.38802721
+2005,Hydrological,Flood,Riverine flood,Viet Nam,South-Eastern Asia,54540,39,0,30000,0,30000,76.38802721
+2005,Hydrological,Flood,Flash flood,Viet Nam,South-Eastern Asia,28850,67,0,33800,0,33800,76.38802721
+2005,Hydrological,Flood,Riverine flood,India,Southern Asia,55740,62,0,49000,0,49000,76.38802721
+2005,Hydrological,Flood,Flash flood,Bangladesh,Southern Asia,12730,13,0,50000,0,50000,76.38802721
+2005,Hydrological,Flood,Riverine flood,China,Eastern Asia,12380,20,0,0,80000,80000,76.38802721
+2005,Geophysical,Earthquake,Ground movement,Iran (Islamic Republic of),Southern Asia,6,612,1411,93355,0,94766,76.38802721
+2005,Hydrological,Flood,Flash flood,Bangladesh,Southern Asia,22570,19,0,100000,0,100000,76.38802721
+2005,Hydrological,Flood,Riverine flood,India,Southern Asia,619200,126,0,100000,0,100000,76.38802721
+2005,Geophysical,Earthquake,Ground movement,Indonesia,South-Eastern Asia,9,915,1146,104167,0,105313,76.38802721
+2005,Hydrological,Flood,Riverine flood,Thailand,South-Eastern Asia,90160,21,40,119270,0,119310,76.38802721
+2005,Hydrological,Flood,Riverine flood,Sri Lanka,Southern Asia,29870,6,0,145000,0,145000,76.38802721
+2005,Geophysical,Earthquake,Ground movement,India,Southern Asia,8,1309,6622,0,150000,156622,76.38802721
+2005,Hydrological,Flood,Riverine flood,China,Eastern Asia,85860,52,46,0,188000,188046,76.38802721
+2005,Hydrological,Flood,Riverine flood,Philippines (the),South-Eastern Asia,4630,4,0,192946,0,192946,76.38802721
+2005,Meteorological,Storm,Tropical cyclone,Japan,Eastern Asia,144,32,140,270000,0,270140,76.38802721
+2005,Meteorological,Storm,Tropical cyclone,Viet Nam,South-Eastern Asia,133,75,28,337632,0,337660,76.38802721
+2005,Hydrological,Flood,Riverine flood,Pakistan,Southern Asia,28630,39,0,460073,0,460073,76.38802721
+2005,Hydrological,Flood,Riverine flood,India,Southern Asia,312900,89,0,550000,0,550000,76.38802721
+2005,Geophysical,Earthquake,Ground movement,China,Eastern Asia,5,16,8000,607500,0,615500,76.38802721
+2005,Hydrological,Flood,Riverine flood,China,Eastern Asia,93630,19,0,650000,0,650000,76.38802721
+2005,Hydrological,Flood,Flash flood,India,Southern Asia,12680,27,0,800000,0,800000,76.38802721
+2006,Geophysical,Earthquake,Ground movement,Taiwan (Province of China),Eastern Asia,7,2,42,0,0,42,78.85225551
+2006,Hydrological,Flood,Flash flood,Viet Nam,South-Eastern Asia,560,4,100,0,0,100,78.85225551
+2006,Geophysical,Earthquake,Ground movement,Indonesia,South-Eastern Asia,6,1,14,0,100,114,78.85225551
+2006,Hydrological,Flood,Riverine flood,Taiwan (Province of China),Eastern Asia,14310,3,0,300,0,300,78.85225551
+2006,Hydrological,Flood,Riverine flood,Yemen,Western Asia,91480,25,20,0,300,320,78.85225551
+2006,Hydrological,Flood,Riverine flood,Indonesia,South-Eastern Asia,19040,22,2,400,0,402,78.85225551
+2006,Hydrological,Flood,Riverine flood,Afghanistan,Southern Asia,21480,21,150,465,0,615,78.85225551
+2006,Geophysical,Earthquake,Ground movement,Afghanistan,Southern Asia,6,1,0,740,195,935,78.85225551
+2006,Hydrological,Flood,Flash flood,Philippines (the),South-Eastern Asia,630,1,0,1000,0,1000,78.85225551
+2006,Geophysical,Earthquake,Ground movement,Indonesia,South-Eastern Asia,6,8,200,1000,0,1200,78.85225551
+2006,Hydrological,Flood,Riverine flood,China,Eastern Asia,1726,1,0,1200,0,1200,78.85225551
+2006,Geophysical,Earthquake,Tsunami,Indonesia,South-Eastern Asia,7,3,2,1200,0,1202,78.85225551
+2006,Hydrological,Flood,Flash flood,Yemen,Western Asia,10710,5,0,0,2000,2000,78.85225551
+2006,Hydrological,Flood,Riverine flood,Pakistan,Southern Asia,42570,40,0,2000,0,2000,78.85225551
+2006,Hydrological,Flood,Riverine flood,China,Eastern Asia,138200,20,0,2400,0,2400,78.85225551
+2006,Hydrological,Flood,Riverine flood,Iran (Islamic Republic of),Southern Asia,18310,14,0,2800,0,2800,78.85225551
+2006,Hydrological,Flood,Riverine flood,Japan,Eastern Asia,6130,8,0,4300,0,4300,78.85225551
+2006,Hydrological,Flood,Flash flood,Korea (the Republic of),Eastern Asia,9610,46,0,4630,0,4630,78.85225551
+2006,Hydrological,Flood,Riverine flood,China,Eastern Asia,36280,23,0,5000,0,5000,78.85225551
+2006,Hydrological,Flood,Flash flood,Afghanistan,Southern Asia,58310,19,25,5000,0,5025,78.85225551
+2006,Hydrological,Flood,Riverine flood,Pakistan,Southern Asia,2748,74,50,0,5000,5050,78.85225551
+2006,Meteorological,Storm,Convective storm,Bangladesh,Southern Asia,150,4,549,5350,0,5899,78.85225551
+2006,Hydrological,Flood,Riverine flood,Japan,Eastern Asia,47890,34,32,6200,0,6232,78.85225551
+2006,Hydrological,Flood,Riverine flood,Afghanistan,Southern Asia,3116,54,0,0,8000,8000,78.85225551
+2006,Hydrological,Flood,Riverine flood,India,Southern Asia,170100,24,0,8400,0,8400,78.85225551
+2006,Hydrological,Flood,Riverine flood,Indonesia,South-Eastern Asia,73070,19,0,10000,0,10000,78.85225551
+2006,Hydrological,Flood,Riverine flood,Myanmar,South-Eastern Asia,188000,25,0,10000,0,10000,78.85225551
+2006,Hydrological,Flood,Riverine flood,China,Eastern Asia,109600,42,9,10000,0,10009,78.85225551
+2006,Hydrological,Flood,Riverine flood,India,Southern Asia,42690,32,0,10800,0,10800,78.85225551
+2006,Hydrological,Flood,Flash flood,China,Eastern Asia,11680,50,0,0,12000,12000,78.85225551
+2006,Geophysical,Earthquake,Ground movement,Tajikistan,Central Asia,6,3,19,15408,0,15427,78.85225551
+2006,Hydrological,Flood,Flash flood,Indonesia,South-Eastern Asia,33830,39,39,17500,0,17539,78.85225551
+2006,Hydrological,Flood,Flash flood,Afghanistan,Southern Asia,5000,166,5,17575,0,17580,78.85225551
+2006,Hydrological,Flood,Flash flood,Iraq,Western Asia,19960,20,20,18000,0,18020,78.85225551
+2006,Hydrological,Flood,Flash flood,Indonesia,South-Eastern Asia,23710,52,0,18250,0,18250,78.85225551
+2006,Hydrological,Flood,Riverine flood,China,Eastern Asia,24770,27,4,20000,0,20004,78.85225551
+2006,Meteorological,Storm,Tropical cyclone,Philippines (the),South-Eastern Asia,130,6,10,21250,0,21260,78.85225551
+2006,Hydrological,Flood,Flash flood,Indonesia,South-Eastern Asia,3100,236,56,28505,670,29231,78.85225551
+2006,Hydrological,Flood,Riverine flood,Cambodia,South-Eastern Asia,55860,5,0,33000,0,33000,78.85225551
+2006,Geophysical,Earthquake,Tsunami,Indonesia,South-Eastern Asia,8,802,543,35000,0,35543,78.85225551
+2006,Hydrological,Flood,Riverine flood,China,Eastern Asia,175200,22,0,36900,0,36900,78.85225551
+2006,Hydrological,Flood,Riverine flood,Philippines (the),South-Eastern Asia,3680,2,0,40000,0,40000,78.85225551
+2006,Meteorological,Storm,Tropical cyclone,Philippines (the),South-Eastern Asia,185,41,0,42000,0,42000,78.85225551
+2006,Geophysical,Earthquake,Ground movement,China,Eastern Asia,5,1,31,45520,0,45551,78.85225551
+2006,Hydrological,Flood,Riverine flood,Viet Nam,South-Eastern Asia,119500,42,20,50000,0,50020,78.85225551
+2006,Meteorological,Storm,Tropical cyclone,Philippines (the),South-Eastern Asia,120,37,0,51680,0,51680,78.85225551
+2006,Meteorological,Storm,Tropical cyclone,Myanmar,South-Eastern Asia,240,34,31,60075,0,60106,78.85225551
+2006,Hydrological,Flood,Flash flood,Turkey,Western Asia,122300,47,15,63000,0,63015,78.85225551
+2006,Hydrological,Flood,Flash flood,Korea (the Democratic People's Republic of),Eastern Asia,55620,278,0,0,84500,84500,78.85225551
+2006,Hydrological,Flood,Flash flood,Malaysia,South-Eastern Asia,18300,6,0,100000,0,100000,78.85225551
+2006,Hydrological,Flood,Riverine flood,India,Southern Asia,32700,42,0,100000,0,100000,78.85225551
+2006,Geophysical,Earthquake,Ground movement,Iran (Islamic Republic of),Southern Asia,6,63,1418,160000,0,161418,78.85225551
+2006,Hydrological,Flood,Riverine flood,India,Southern Asia,40090,47,0,225000,0,225000,78.85225551
+2006,Hydrological,Flood,Flash flood,Philippines (the),South-Eastern Asia,63470,4,0,256641,0,256641,78.85225551
+2006,Geophysical,Earthquake,Ground movement,China,Eastern Asia,5,22,106,190000,75000,265106,78.85225551
+2006,Hydrological,Flood,Riverine flood,China,Eastern Asia,11360,6,0,270000,0,270000,78.85225551
+2006,Meteorological,Storm,Tropical cyclone,Philippines (the),South-Eastern Asia,230,34,58,282963,0,283021,78.85225551
+2006,Hydrological,Flood,Riverine flood,India,Southern Asia,13110,130,0,300000,0,300000,78.85225551
+2006,Meteorological,Storm,Tropical cyclone,Philippines (the),South-Eastern Asia,150,42,42,327500,0,327542,78.85225551
+2006,Hydrological,Flood,Riverine flood,Sri Lanka,Southern Asia,6890,25,2,333000,0,333002,78.85225551
+2006,Hydrological,Flood,Flash flood,Thailand,South-Eastern Asia,78280,116,0,342895,0,342895,78.85225551
+2006,Hydrological,Flood,Riverine flood,China,Eastern Asia,107400,3,35,0,350000,350035,78.85225551
+2006,Hydrological,Flood,Riverine flood,China,Eastern Asia,76600,57,0,356000,0,356000,78.85225551
+2006,Hydrological,Flood,Riverine flood,India,Southern Asia,47020,21,0,504000,0,504000,78.85225551
+2007,Hydrological,Flood,Flash flood,Pakistan,Southern Asia,190100,44,20,0,0,20,81.10165893
+2007,Hydrological,Flood,Riverine flood,Pakistan,Southern Asia,2215,228,186,0,0,186,81.10165893
+2007,Meteorological,Storm,Tropical cyclone,Bangladesh,Southern Asia,88,41,0,0,225,225,81.10165893
+2007,Geophysical,Earthquake,Ground movement,China,Eastern Asia,6,3,329,0,0,329,81.10165893
+2007,Hydrological,Flood,Flash flood,Pakistan,Southern Asia,12120,22,0,500,0,500,81.10165893
+2007,Hydrological,Flood,Flash flood,Yemen,Western Asia,59870,36,18,600,0,618,81.10165893
+2007,Hydrological,Flood,Riverine flood,Afghanistan,Southern Asia,25850,10,0,630,15,645,81.10165893
+2007,Hydrological,Flood,Riverine flood,Turkey,Western Asia,38490,13,0,750,0,750,81.10165893
+2007,Meteorological,Storm,Tropical cyclone,Japan,Eastern Asia,140,4,82,900,0,982,81.10165893
+2007,Hydrological,Flood,Riverine flood,Pakistan,Southern Asia,130,130,0,2000,0,2000,81.10165893
+2007,Hydrological,Flood,Riverine flood,Indonesia,South-Eastern Asia,2400,15,0,2000,0,2000,81.10165893
+2007,Hydrological,Flood,Riverine flood,Yemen,Western Asia,25390,7,0,2000,0,2000,81.10165893
+2007,Hydrological,Flood,Flash flood,Afghanistan,Southern Asia,4110,9,0,0,2500,2500,81.10165893
+2007,Hydrological,Flood,Flash flood,Afghanistan,Southern Asia,15490,23,0,2000,950,2950,81.10165893
+2007,Hydrological,Flood,Riverine flood,Myanmar,South-Eastern Asia,15670,5,0,3000,0,3000,81.10165893
+2007,Hydrological,Flood,Riverine flood,Indonesia,South-Eastern Asia,4600,88,12,3377,0,3389,81.10165893
+2007,Hydrological,Flood,Riverine flood,Afghanistan,Southern Asia,62340,113,0,4000,0,4000,81.10165893
+2007,Geophysical,Earthquake,Ground movement,Tajikistan,Central Asia,5,11,3,7000,0,7003,81.10165893
+2007,Hydrological,Flood,Riverine flood,Japan,Eastern Asia,2670,2,0,10000,0,10000,81.10165893
+2007,Hydrological,Flood,Riverine flood,India,Southern Asia,106600,62,0,10000,0,10000,81.10165893
+2007,Hydrological,Flood,Flash flood,Indonesia,South-Eastern Asia,3220,74,26,11530,0,11556,81.10165893
+2007,Geophysical,Earthquake,Ground movement,Japan,Eastern Asia,7,9,1000,13000,0,14000,81.10165893
+2007,Hydrological,Flood,Riverine flood,India,Southern Asia,191400,76,0,15000,0,15000,81.10165893
+2007,Hydrological,Flood,Coastal flood,Philippines (the),South-Eastern Asia,11140,11,0,16463,0,16463,81.10165893
+2007,Hydrological,Flood,Riverine flood,Thailand,South-Eastern Asia,139500,10,0,17000,0,17000,81.10165893
+2007,Hydrological,Flood,Riverine flood,Tajikistan,Central Asia,58420,1,0,17184,0,17184,81.10165893
+2007,Hydrological,Flood,Riverine flood,China,Eastern Asia,4380,11,0,0,17500,17500,81.10165893
+2007,Hydrological,Flood,Riverine flood,China,Eastern Asia,5690,11,0,0,17500,17500,81.10165893
+2007,Hydrological,Flood,Riverine flood,Cambodia,South-Eastern Asia,64580,2,0,19000,0,19000,81.10165893
+2007,Meteorological,Storm,Tropical cyclone,Oman,Western Asia,260,76,0,20000,0,20000,81.10165893
+2007,Hydrological,Flood,Riverine flood,India,Southern Asia,90280,94,0,20000,0,20000,81.10165893
+2007,Hydrological,Flood,Riverine flood,Afghanistan,Southern Asia,304100,104,0,20000,0,20000,81.10165893
+2007,Geophysical,Earthquake,Ground movement,Indonesia,South-Eastern Asia,7,3,1800,20000,0,21800,81.10165893
+2007,Hydrological,Flood,Riverine flood,Viet Nam,South-Eastern Asia,24810,15,0,22000,0,22000,81.10165893
+2007,Hydrological,Flood,Riverine flood,Philippines (the),South-Eastern Asia,44620,9,0,24508,0,24508,81.10165893
+2007,Meteorological,Storm,Tropical cyclone,Philippines (the),South-Eastern Asia,25810,8,0,33884,0,33884,81.10165893
+2007,Hydrological,Flood,Riverine flood,Sri Lanka,Southern Asia,10420,18,0,35000,0,35000,81.10165893
+2007,Hydrological,Flood,Riverine flood,India,Southern Asia,21120,44,0,35000,0,35000,81.10165893
+2007,Meteorological,Storm,Tropical cyclone,Philippines (the),South-Eastern Asia,129,20,11,35322,0,35333,81.10165893
+2007,Meteorological,Storm,Tropical cyclone,Japan,Eastern Asia,250,5,12,40000,0,40012,81.10165893
+2007,Geophysical,Earthquake,Ground movement,Japan,Eastern Asia,7,1,359,0,40668,41027,81.10165893
+2007,Hydrological,Flood,Riverine flood,India,Southern Asia,74000,29,0,50000,0,50000,81.10165893
+2007,Hydrological,Flood,Riverine flood,India,Southern Asia,76740,29,0,50000,0,50000,81.10165893
+2007,Hydrological,Flood,Riverine flood,Indonesia,South-Eastern Asia,34350,4,0,60000,0,60000,81.10165893
+2007,Hydrological,Flood,Riverine flood,India,Southern Asia,61700,225,0,63000,0,63000,81.10165893
+2007,Hydrological,Flood,Riverine flood,Viet Nam,South-Eastern Asia,35110,83,42,94000,0,94042,81.10165893
+2007,Hydrological,Flood,Riverine flood,Thailand,South-Eastern Asia,13140,2,0,100000,0,100000,81.10165893
+2007,Hydrological,Flood,Flash flood,Sri Lanka,Southern Asia,3340,15,0,121000,0,121000,81.10165893
+2007,Hydrological,Flood,Riverine flood,Malaysia,South-Eastern Asia,26380,17,0,137533,0,137533,81.10165893
+2007,Geophysical,Earthquake,Ground movement,Indonesia,South-Eastern Asia,6,67,826,136834,0,137660,81.10165893
+2007,Hydrological,Flood,Coastal flood,Viet Nam,South-Eastern Asia,36820,55,0,150000,0,150000,81.10165893
+2007,Meteorological,Storm,Tropical cyclone,Iran (Islamic Republic of),Southern Asia,220,12,9,185000,0,185009,81.10165893
+2007,Hydrological,Flood,Riverine flood,India,Southern Asia,74890,15,0,200000,0,200000,81.10165893
+2007,Hydrological,Flood,Flash flood,India,Southern Asia,449300,127,0,200000,0,200000,81.10165893
+2007,Hydrological,Flood,Riverine flood,China,Eastern Asia,32590,17,0,213000,0,213000,81.10165893
+2007,Hydrological,Flood,Riverine flood,Indonesia,South-Eastern Asia,1800,68,1,217086,0,217087,81.10165893
+2007,Hydrological,Flood,Riverine flood,Indonesia,South-Eastern Asia,50690,127,95,259545,9875,269515,81.10165893
+2007,Hydrological,Flood,Riverine flood,China,Eastern Asia,812700,29,0,350000,0,350000,81.10165893
+2007,Hydrological,Flood,Riverine flood,China,Eastern Asia,165100,170,0,386000,0,386000,81.10165893
+2007,Meteorological,Storm,Tropical cyclone,Philippines (the),South-Eastern Asia,170,29,6,443109,0,443115,81.10165893
+2007,Geophysical,Earthquake,Ground movement,Indonesia,South-Eastern Asia,8,25,82,422685,36800,459567,81.10165893
+2007,Hydrological,Flood,Riverine flood,India,Southern Asia,15360,15,0,500000,0,500000,81.10165893
+2007,Hydrological,Flood,Riverine flood,Nepal,Southern Asia,56920,214,48,640658,0,640706,81.10165893
+2007,Meteorological,Storm,Tropical cyclone,Viet Nam,South-Eastern Asia,117,96,150,637755,47525,685430,81.10165893
+2008,Meteorological,Storm,Tropical cyclone,Taiwan (Province of China),Eastern Asia,138,26,8,0,0,8,84.21522909
+2008,Geophysical,Earthquake,Ground movement,Indonesia,South-Eastern Asia,7,3,25,0,0,25,84.21522909
+2008,Meteorological,Storm,Convective storm,India,Southern Asia,110,111,50,0,0,50,84.21522909
+2008,Meteorological,Storm,Tropical cyclone,Taiwan (Province of China),Eastern Asia,227,3,60,0,0,60,84.21522909
+2008,Meteorological,Storm,Convective storm,China,Eastern Asia,84,10,100,0,0,100,84.21522909
+2008,Geophysical,Earthquake,Ground movement,China,Eastern Asia,6,6,160,0,0,160,84.21522909
+2008,Meteorological,Storm,Tropical cyclone,Bangladesh,Southern Asia,80,15,200,0,0,200,84.21522909
+2008,Meteorological,Storm,Tropical cyclone,Bangladesh,Southern Asia,100,12,200,0,0,200,84.21522909
+2008,Geophysical,Earthquake,Ground movement,Japan,Eastern Asia,7,23,448,0,0,448,84.21522909
+2008,Geophysical,Earthquake,Ground movement,Japan,Eastern Asia,7,1,200,270,0,470,84.21522909
+2008,Hydrological,Flood,Flash flood,Viet Nam,South-Eastern Asia,5300,4,0,500,0,500,84.21522909
+2008,Hydrological,Flood,Riverine flood,Iraq,Western Asia,3310,4,0,0,600,600,84.21522909
+2008,Geophysical,Earthquake,Ground movement,Indonesia,South-Eastern Asia,5,2,60,565,0,625,84.21522909
+2008,Geophysical,Earthquake,Ground movement,China,Eastern Asia,6,30,19,0,735,754,84.21522909
+2008,Geophysical,Earthquake,Ground movement,Kyrgyzstan,Central Asia,7,74,142,0,1055,1197,84.21522909
+2008,Hydrological,Flood,Riverine flood,Iran (Islamic Republic of),Southern Asia,7096,3,80,1200,0,1280,84.21522909
+2008,Hydrological,Flood,Flash flood,Indonesia,South-Eastern Asia,400,14,0,7000,0,7000,84.21522909
+2008,Geophysical,Earthquake,Ground movement,Indonesia,South-Eastern Asia,7,6,77,10000,0,10077,84.21522909
+2008,Hydrological,Flood,Riverine flood,Indonesia,South-Eastern Asia,11590,3,0,12000,0,12000,84.21522909
+2008,Hydrological,Flood,Flash flood,Viet Nam,South-Eastern Asia,39090,29,4,12000,0,12004,84.21522909
+2008,Hydrological,Flood,Riverine flood,Kazakhstan,Central Asia,51580,1,0,13000,0,13000,84.21522909
+2008,Geophysical,Earthquake,Ground movement,China,Eastern Asia,6,4,29,0,13500,13529,84.21522909
+2008,Hydrological,Flood,Riverine flood,Indonesia,South-Eastern Asia,126700,24,0,15000,0,15000,84.21522909
+2008,Hydrological,Flood,Riverine flood,Viet Nam,South-Eastern Asia,29580,9,0,20000,0,20000,84.21522909
+2008,Geophysical,Earthquake,Ground movement,Iran (Islamic Republic of),Southern Asia,6,6,45,20500,0,20545,84.21522909
+2008,Hydrological,Flood,Flash flood,Yemen,Western Asia,133200,90,64,25000,0,25064,84.21522909
+2008,Meteorological,Storm,Tropical cyclone,Viet Nam,South-Eastern Asia,102,18,0,30860,820,31680,84.21522909
+2008,Hydrological,Flood,Riverine flood,Indonesia,South-Eastern Asia,810,3,0,40000,0,40000,84.21522909
+2008,Hydrological,Flood,Riverine flood,Philippines (the),South-Eastern Asia,24110,29,0,0,50000,50000,84.21522909
+2008,Hydrological,Flood,Riverine flood,China,Eastern Asia,29940,3,0,50000,0,50000,84.21522909
+2008,Hydrological,Flood,Riverine flood,Japan,Eastern Asia,52420,5,3,50000,0,50003,84.21522909
+2008,Hydrological,Flood,Riverine flood,Sri Lanka,Southern Asia,43220,8,0,54323,0,54323,84.21522909
+2008,Geophysical,Earthquake,Ground movement,Pakistan,Southern Asia,6,166,320,75000,0,75320,84.21522909
+2008,Hydrological,Flood,Riverine flood,Indonesia,South-Eastern Asia,380,3,0,88261,1500,89761,84.21522909
+2008,Hydrological,Flood,Riverine flood,Pakistan,Southern Asia,165900,37,0,90752,0,90752,84.21522909
+2008,Meteorological,Storm,Tropical cyclone,China,Eastern Asia,155,1,6,93000,0,93006,84.21522909
+2008,Hydrological,Flood,Riverine flood,Indonesia,South-Eastern Asia,9851,16,0,118000,0,118000,84.21522909
+2008,Hydrological,Flood,Riverine flood,Nepal,Southern Asia,168100,50,3,180000,0,180003,84.21522909
+2008,Hydrological,Flood,Riverine flood,Pakistan,Southern Asia,32490,36,12,200000,0,200012,84.21522909
+2008,Hydrological,Flood,Riverine flood,India,Southern Asia,283800,142,0,225000,0,225000,84.21522909
+2008,Hydrological,Flood,Flash flood,Philippines (the),South-Eastern Asia,21770,10,0,239763,0,239763,84.21522909
+2008,Meteorological,Storm,Tropical cyclone,China,Eastern Asia,175,25,0,274000,0,274000,84.21522909
+2008,Geophysical,Earthquake,Ground movement,China,Eastern Asia,6,8,1000,0,350000,351000,84.21522909
+2008,Hydrological,Flood,Flash flood,Sri Lanka,Southern Asia,103400,15,0,360000,0,360000,84.21522909
+2008,Hydrological,Flood,Flash flood,Sri Lanka,Southern Asia,40670,25,0,362582,0,362582,84.21522909
+2008,Meteorological,Storm,Tropical cyclone,Philippines (the),South-Eastern Asia,150,38,13,429450,0,429463,84.21522909
+2008,Hydrological,Flood,Riverine flood,China,Eastern Asia,106000,64,166,538000,0,538166,84.21522909
+2008,Hydrological,Flood,Riverine flood,Viet Nam,South-Eastern Asia,74590,99,0,600000,0,600000,84.21522909
+2008,Hydrological,Flood,Riverine flood,Bangladesh,Southern Asia,59250,12,0,600000,15638,615638,84.21522909
+2008,Hydrological,Flood,Flash flood,Thailand,South-Eastern Asia,15650,21,0,700000,0,700000,84.21522909
+2008,Hydrological,Flood,Riverine flood,China,Eastern Asia,43960,3,0,780000,0,780000,84.21522909
+2008,Hydrological,Flood,Riverine flood,China,Eastern Asia,24610,20,0,810000,0,810000,84.21522909
+2008,Hydrological,Flood,Riverine flood,Philippines (the),South-Eastern Asia,21800,63,37,875306,0,875343,84.21522909
+2009,Hydrological,Flood,Riverine flood,India,Southern Asia,35730,70,8,0,0,8,83.91580741
+2009,Geophysical,Earthquake,Ground movement,Bhutan,Southern Asia,8,11,12,0,0,12,83.91580741
+2009,Hydrological,Flood,Riverine flood,China,Eastern Asia,201100,20,38,0,0,38,83.91580741
+2009,Hydrological,Flood,Riverine flood,Pakistan,Southern Asia,10370,52,70,0,0,70,83.91580741
+2009,Hydrological,Flood,Riverine flood,Turkey,Western Asia,26430,7,11,100,0,111,83.91580741
+2009,Geophysical,Earthquake,Ground movement,Indonesia,South-Eastern Asia,8,2,100,1410,0,1510,83.91580741
+2009,Hydrological,Flood,Riverine flood,Indonesia,South-Eastern Asia,19200,64,0,1600,0,1600,83.91580741
+2009,Geophysical,Earthquake,Ground movement,Afghanistan,Southern Asia,5,22,59,0,3250,3309,83.91580741
+2009,Geophysical,Earthquake,Ground movement,Indonesia,South-Eastern Asia,8,5,250,4000,0,4250,83.91580741
+2009,Meteorological,Storm,Tropical cyclone,Japan,Eastern Asia,220,4,119,5000,0,5119,83.91580741
+2009,Hydrological,Flood,Riverine flood,Saudi Arabia,Western Asia,114600,161,0,0,10000,10000,83.91580741
+2009,Hydrological,Flood,Flash flood,Indonesia,South-Eastern Asia,60610,18,0,12000,0,12000,83.91580741
+2009,Hydrological,Flood,Riverine flood,Tajikistan,Central Asia,62470,21,0,15000,0,15000,83.91580741
+2009,Meteorological,Storm,Tropical cyclone,Bangladesh,Southern Asia,100,7,84,19125,0,19209,83.91580741
+2009,Geophysical,Earthquake,Tsunami,Japan,Eastern Asia,6,1,319,25000,0,25319,83.91580741
+2009,Hydrological,Flood,Flash flood,Turkey,Western Asia,3167,40,20,35000,0,35020,83.91580741
+2009,Hydrological,Flood,Riverine flood,Viet Nam,South-Eastern Asia,47600,17,0,40000,0,40000,83.91580741
+2009,Meteorological,Storm,Convective storm,China,Eastern Asia,100,15,181,0,48450,48631,83.91580741
+2009,Hydrological,Flood,Riverine flood,Afghanistan,Southern Asia,88520,39,16,60000,0,60016,83.91580741
+2009,Geophysical,Earthquake,Ground movement,China,Eastern Asia,6,1,336,15000,50000,65336,83.91580741
+2009,Hydrological,Flood,Flash flood,Pakistan,Southern Asia,30560,36,0,75000,0,75000,83.91580741
+2009,Hydrological,Flood,Riverine flood,China,Eastern Asia,82900,11,0,106000,0,106000,83.91580741
+2009,Meteorological,Storm,Tropical cyclone,Philippines (the),South-Eastern Asia,83,16,5,110400,0,110405,83.91580741
+2009,Hydrological,Flood,Riverine flood,China,Eastern Asia,81300,12,0,118000,0,118000,83.91580741
+2009,Hydrological,Flood,Riverine flood,Thailand,South-Eastern Asia,35580,15,0,200000,0,200000,83.91580741
+2009,Hydrological,Flood,Riverine flood,Nepal,Southern Asia,129700,87,62,257724,0,257786,83.91580741
+2009,Hydrological,Flood,Flash flood,Sri Lanka,Southern Asia,15650,3,0,300000,0,300000,83.91580741
+2009,Geophysical,Earthquake,Ground movement,Indonesia,South-Eastern Asia,7,128,1442,338350,0,339792,83.91580741
+2009,Meteorological,Storm,Tropical cyclone,Philippines (the),South-Eastern Asia,148,29,8,383457,0,383465,83.91580741
+2009,Meteorological,Storm,Tropical cyclone,Philippines (the),South-Eastern Asia,139,77,53,400954,0,401007,83.91580741
+2009,Hydrological,Flood,Riverine flood,Bangladesh,Southern Asia,49030,6,0,500000,0,500000,83.91580741
+2009,Meteorological,Storm,Tropical cyclone,Viet Nam,South-Eastern Asia,140,124,145,500000,0,500145,83.91580741
+2009,Hydrological,Flood,Riverine flood,Viet Nam,South-Eastern Asia,69860,20,0,700000,0,700000,83.91580741
+2009,Meteorological,Storm,Tropical cyclone,Philippines (the),South-Eastern Asia,140,39,20,802155,0,802175,83.91580741
+2010,Geophysical,Earthquake,Ground movement,China,Eastern Asia,4,8,9,0,0,9,85.2920606
+2010,Geophysical,Earthquake,Ground movement,Iran (Islamic Republic of),Southern Asia,7,7,25,0,0,25,85.2920606
+2010,Geophysical,Earthquake,Ground movement,Iran (Islamic Republic of),Southern Asia,6,1,32,0,0,32,85.2920606
+2010,Hydrological,Flood,Riverine flood,Saudi Arabia,Western Asia,56000,10,0,85,0,85,85.2920606
+2010,Meteorological,Storm,Tropical cyclone,Taiwan (Province of China),Eastern Asia,220,2,100,0,0,100,85.2920606
+2010,Hydrological,Flood,Flash flood,Indonesia,South-Eastern Asia,23685,16,0,200,0,200,85.2920606
+2010,Hydrological,Flood,Riverine flood,Yemen,Western Asia,38890,7,2,0,1000,1002,85.2920606
+2010,Meteorological,Storm,Tropical cyclone,Philippines (the),South-Eastern Asia,95,31,0,1045,0,1045,85.2920606
+2010,Geophysical,Earthquake,Ground movement,Afghanistan,Southern Asia,6,11,70,0,1000,1070,85.2920606
+2010,Geophysical,Earthquake,Ground movement,Iran (Islamic Republic of),Southern Asia,6,3,100,0,3500,3600,85.2920606
+2010,Geophysical,Earthquake,Ground movement,Turkey,Western Asia,6,51,100,3500,0,3600,85.2920606
+2010,Hydrological,Flood,Flash flood,Pakistan,Southern Asia,14180,60,0,4000,0,4000,85.2920606
+2010,Geophysical,Earthquake,Ground movement,Indonesia,South-Eastern Asia,7,17,0,0,4600,4600,85.2920606
+2010,Hydrological,Flood,Riverine flood,Afghanistan,Southern Asia,176799,65,0,5000,0,5000,85.2920606
+2010,Hydrological,Flood,Riverine flood,Viet Nam,South-Eastern Asia,45584,50,0,10000,0,10000,85.2920606
+2010,Geophysical,Earthquake,Ground movement,China,Eastern Asia,5,1,15,10000,500,10515,85.2920606
+2010,Geophysical,Earthquake,Tsunami,Indonesia,South-Eastern Asia,8,530,412,11452,0,11864,85.2920606
+2010,Hydrological,Flood,Flash flood,India,Southern Asia,145000,196,225,12500,0,12725,85.2920606
+2010,Hydrological,Flood,Riverine flood,Indonesia,South-Eastern Asia,106460,21,7,15000,0,15007,85.2920606
+2010,Hydrological,Flood,Flash flood,Kazakhstan,Central Asia,323800,44,700,15500,0,16200,85.2920606
+2010,Meteorological,Storm,Tropical cyclone,Viet Nam,South-Eastern Asia,230,14,20,20560,120,20700,85.2920606
+2010,Hydrological,Flood,Riverine flood,Viet Nam,South-Eastern Asia,33659,31,8,39000,0,39008,85.2920606
+2010,Hydrological,Flood,Riverine flood,Philippines (the),South-Eastern Asia,22340,27,0,40000,0,40000,85.2920606
+2010,Hydrological,Flood,Riverine flood,Afghanistan,Southern Asia,65810,70,0,40000,0,40000,85.2920606
+2010,Meteorological,Storm,Tropical cyclone,Korea (the Republic of),Eastern Asia,120,12,0,41500,0,41500,85.2920606
+2010,Hydrological,Flood,Riverine flood,India,Southern Asia,63170,27,0,50000,0,50000,85.2920606
+2010,Geophysical,Earthquake,Ground movement,China,Eastern Asia,7,2968,12000,0,100000,112000,85.2920606
+2010,Hydrological,Flood,Flash flood,Sri Lanka,Southern Asia,11880,7,10,164183,0,164193,85.2920606
+2010,Meteorological,Storm,Tropical cyclone,China,Eastern Asia,100,3,0,0,186000,186000,85.2920606
+2010,Meteorological,Storm,Tropical cyclone,Bangladesh,Southern Asia,120,8,200,246910,0,247110,85.2920606
+2010,Meteorological,Storm,Tropical cyclone,Myanmar,South-Eastern Asia,193,45,49,260000,0,260049,85.2920606
+2010,Hydrological,Flood,Riverine flood,India,Southern Asia,147437,53,0,0,400000,400000,85.2920606
+2010,Hydrological,Flood,Riverine flood,Philippines (the),South-Eastern Asia,15301,16,0,450673,0,450673,85.2920606
+2010,Hydrological,Flood,Riverine flood,Bangladesh,Southern Asia,29265,15,0,500000,0,500000,85.2920606
+2010,Meteorological,Storm,Tropical cyclone,Philippines (the),South-Eastern Asia,120,146,91,585383,0,585474,85.2920606
+2010,Hydrological,Flood,Riverine flood,Sri Lanka,Southern Asia,19210,28,0,606072,0,606072,85.2920606
+2011,Geophysical,Earthquake,Ground movement,Thailand,South-Eastern Asia,7,1,16,0,0,16,87.98460292
+2011,Hydrological,Flood,Riverine flood,Indonesia,South-Eastern Asia,2457,10,0,54,0,54,87.98460292
+2011,Meteorological,Storm,Convective storm,Japan,Eastern Asia,175,5,55,0,0,55,87.98460292
+2011,Geophysical,Earthquake,Tsunami,Indonesia,South-Eastern Asia,9,1,0,0,95,95,87.98460292
+2011,Geophysical,Earthquake,Ground movement,Turkey,Western Asia,6,40,30,0,75,105,87.98460292
+2011,Geophysical,Earthquake,Ground movement,Japan,Eastern Asia,7,2,132,0,0,132,87.98460292
+2011,Meteorological,Storm,Tropical cyclone,Japan,Eastern Asia,215,13,308,0,0,308,87.98460292
+2011,Hydrological,Flood,Riverine flood,Indonesia,South-Eastern Asia,41506,21,0,750,0,750,87.98460292
+2011,Geophysical,Earthquake,Ground movement,Pakistan,Southern Asia,7,2,0,1000,0,1000,87.98460292
+2011,Meteorological,Storm,Tropical cyclone,Japan,Eastern Asia,90,68,0,1300,0,1300,87.98460292
+2011,Hydrological,Flood,Riverine flood,Philippines (the),South-Eastern Asia,44521,11,0,2000,0,2000,87.98460292
+2011,Hydrological,Flood,Riverine flood,Indonesia,South-Eastern Asia,17351,18,0,3000,0,3000,87.98460292
+2011,Hydrological,Flood,Riverine flood,Afghanistan,Southern Asia,63337,25,65,3000,0,3065,87.98460292
+2011,Geophysical,Earthquake,Ground movement,China,Eastern Asia,7,7,136,0,5000,5136,87.98460292
+2011,Geophysical,Earthquake,Ground movement,China,Eastern Asia,6,25,250,0,5190,5440,87.98460292
+2011,Meteorological,Storm,Tropical cyclone,Philippines (the),South-Eastern Asia,165,11,5,8418,0,8423,87.98460292
+2011,Geophysical,Earthquake,Ground movement,Turkey,Western Asia,6,3,121,0,10000,10121,87.98460292
+2011,Hydrological,Flood,Riverine flood,India,Southern Asia,50117,7,0,11000,0,11000,87.98460292
+2011,Hydrological,Flood,Riverine flood,Kazakhstan,Central Asia,213195,2,0,12238,3762,16000,87.98460292
+2011,Hydrological,Flood,Riverine flood,Malaysia,South-Eastern Asia,62167,2,0,20000,0,20000,87.98460292
+2011,Geophysical,Earthquake,Ground movement,Bhutan,Southern Asia,7,1,16,20000,0,20016,87.98460292
+2011,Geophysical,Earthquake,Ground movement,Myanmar,South-Eastern Asia,7,74,125,18000,3152,21277,87.98460292
+2011,Hydrological,Flood,Riverine flood,Korea (the Republic of),Eastern Asia,17840,53,0,29000,0,29000,87.98460292
+2011,Geophysical,Earthquake,Ground movement,Turkey,Western Asia,7,604,4152,6786,22000,32938,87.98460292
+2011,Hydrological,Flood,Riverine flood,Lao People's Democratic Republic (the),South-Eastern Asia,36797,14,0,37000,0,37000,87.98460292
+2011,Hydrological,Flood,Flash flood,Philippines (the),South-Eastern Asia,6361,31,0,121005,0,121005,87.98460292
+2011,Geophysical,Earthquake,Ground movement,Nepal,Southern Asia,7,7,89,167860,0,167949,87.98460292
+2011,Hydrological,Flood,Riverine flood,India,Southern Asia,85509,19,0,200000,0,200000,87.98460292
+2011,Hydrological,Flood,Riverine flood,Sri Lanka,Southern Asia,19891,18,0,225000,0,225000,87.98460292
+2011,Hydrological,Flood,Riverine flood,Philippines (the),South-Eastern Asia,25963,16,1,241776,0,241777,87.98460292
+2011,Meteorological,Storm,Tropical cyclone,India,Southern Asia,140,47,0,0,250000,250000,87.98460292
+2011,Geophysical,Earthquake,Tsunami,Japan,Eastern Asia,9,19846,5933,362887,0,368820,87.98460292
+2011,Geophysical,Earthquake,Ground movement,India,Southern Asia,7,112,200,500000,75000,575200,87.98460292
+2011,Hydrological,Flood,Riverine flood,Philippines (the),South-Eastern Asia,3623,23,164,638254,0,638418,87.98460292
+2011,Hydrological,Flood,Riverine flood,India,Southern Asia,28684,47,0,700000,0,700000,87.98460292
+2011,Hydrological,Flood,Flash flood,Thailand,South-Eastern Asia,33575,64,0,716110,0,716110,87.98460292
+2011,Hydrological,Flood,Riverine flood,Philippines (the),South-Eastern Asia,71700,12,3,944778,0,944781,87.98460292
+2012,Hydrological,Flood,Riverine flood,Nepal,Southern Asia,4395,72,5,0,0,5,89.80529293
+2012,Geophysical,Earthquake,Ground movement,Indonesia,South-Eastern Asia,9,7,107,0,0,107,89.80529293
+2012,Hydrological,Flood,Riverine flood,India,Southern Asia,37710,45,0,200,0,200,89.80529293
+2012,Geophysical,Earthquake,Ground movement,Afghanistan,Southern Asia,6,73,2,0,235,237,89.80529293
+2012,Meteorological,Storm,Convective storm,Japan,Eastern Asia,150,4,372,0,0,372,89.80529293
+2012,Hydrological,Flood,Flash flood,Philippines (the),South-Eastern Asia,23516,1,0,700,0,700,89.80529293
+2012,Hydrological,Flood,Riverine flood,Iran (Islamic Republic of),Southern Asia,11490,7,0,1000,0,1000,89.80529293
+2012,Hydrological,Flood,Riverine flood,India,Southern Asia,31390,30,0,1200,0,1200,89.80529293
+2012,Hydrological,Flood,Riverine flood,Pakistan,Southern Asia,98264,26,0,1200,0,1200,89.80529293
+2012,Geophysical,Earthquake,Ground movement,Myanmar,South-Eastern Asia,7,38,231,1255,0,1486,89.80529293
+2012,Geophysical,Earthquake,Ground movement,Tajikistan,Central Asia,6,2,0,2531,0,2531,89.80529293
+2012,Geophysical,Earthquake,Ground movement,China,Eastern Asia,5,1,2,2530,78,2610,89.80529293
+2012,Geophysical,Earthquake,Ground movement,Iran (Islamic Republic of),Southern Asia,6,6,23,5500,0,5523,89.80529293
+2012,Meteorological,Storm,Tropical cyclone,Philippines (the),South-Eastern Asia,165,11,1,5606,0,5607,89.80529293
+2012,Meteorological,Storm,Convective storm,Japan,Eastern Asia,130,134,1991,5775,0,7766,89.80529293
+2012,Geophysical,Earthquake,Ground movement,Indonesia,South-Eastern Asia,6,6,43,5485,2355,7883,89.80529293
+2012,Meteorological,Storm,Tropical cyclone,Philippines (the),South-Eastern Asia,210,4,0,7921,0,7921,89.80529293
+2012,Hydrological,Flood,Riverine flood,Viet Nam,South-Eastern Asia,24179,34,40,0,17500,17540,89.80529293
+2012,Meteorological,Storm,Tropical cyclone,Japan,Eastern Asia,126,2,180,18045,0,18225,89.80529293
+2012,Hydrological,Flood,Riverine flood,Afghanistan,Southern Asia,21754,74,300,27469,0,27769,89.80529293
+2012,Geophysical,Earthquake,Ground movement,Philippines (the),South-Eastern Asia,8,1,10,28869,0,28879,89.80529293
+2012,Geophysical,Earthquake,Ground movement,China,Eastern Asia,6,4,394,33840,0,34234,89.80529293
+2012,Hydrological,Flood,Riverine flood,Taiwan (Province of China),Eastern Asia,18940,6,0,35000,0,35000,89.80529293
+2012,Meteorological,Storm,Convective storm,Bangladesh,Southern Asia,56,25,121,0,55000,55121,89.80529293
+2012,Geophysical,Earthquake,Ground movement,Iran (Islamic Republic of),Southern Asia,6,306,2006,59540,0,61546,89.80529293
+2012,Hydrological,Flood,Riverine flood,Myanmar,South-Eastern Asia,219814,2,0,85000,0,85000,89.80529293
+2012,Hydrological,Flood,Flash flood,Georgia,Western Asia,15849,5,18,100000,0,100018,89.80529293
+2012,Hydrological,Flood,Riverine flood,China,Eastern Asia,92141,58,0,140000,0,140000,89.80529293
+2012,Hydrological,Flood,Riverine flood,China,Eastern Asia,105607,53,0,185000,0,185000,89.80529293
+2012,Geophysical,Earthquake,Ground movement,Philippines (the),South-Eastern Asia,7,113,112,320165,0,320277,89.80529293
+2012,Hydrological,Flood,Riverine flood,Sri Lanka,Southern Asia,49084,53,21,447000,0,447021,89.80529293
+2012,Geophysical,Earthquake,Ground movement,China,Eastern Asia,6,81,821,744000,0,744821,89.80529293
+2012,Meteorological,Storm,Tropical cyclone,Philippines (the),South-Eastern Asia,150,58,35,949051,0,949086,89.80529293
+2013,Geophysical,Earthquake,Ground movement,Pakistan,Southern Asia,7,22,50,0,0,50,91.12079403
+2013,Meteorological,Storm,Tropical cyclone,Taiwan (Province of China),Eastern Asia,220,3,54,0,0,54,91.12079403
+2013,Geophysical,Earthquake,Ground movement,Taiwan (Province of China),Eastern Asia,6,1,97,0,0,97,91.12079403
+2013,Geophysical,Earthquake,Ground movement,Indonesia,South-Eastern Asia,6,1,15,500,0,515,91.12079403
+2013,Hydrological,Flood,Riverine flood,Indonesia,South-Eastern Asia,67600,8,0,1000,0,1000,91.12079403
+2013,Geophysical,Earthquake,Ground movement,Taiwan (Province of China),Eastern Asia,6,4,19,1500,0,1519,91.12079403
+2013,Geophysical,Earthquake,Ground movement,Iran (Islamic Republic of),Southern Asia,6,8,120,0,1500,1620,91.12079403
+2013,Geophysical,Earthquake,Ground movement,Indonesia,South-Eastern Asia,5,1,3,2735,0,2738,91.12079403
+2013,Meteorological,Storm,Tropical cyclone,China,Eastern Asia,101851,1,0,3000,0,3000,91.12079403
+2013,Geophysical,Earthquake,Ground movement,Afghanistan,Southern Asia,6,18,141,3390,0,3531,91.12079403
+2013,Geophysical,Earthquake,Ground movement,Iran (Islamic Republic of),Southern Asia,6,37,850,3500,0,4350,91.12079403
+2013,Hydrological,Flood,Riverine flood,Afghanistan,Southern Asia,14653,20,0,9500,0,9500,91.12079403
+2013,Hydrological,Flood,Riverine flood,"Palestine, State of",Western Asia,29142,5,0,12500,0,12500,91.12079403
+2013,Meteorological,Storm,Tropical cyclone,Viet Nam,South-Eastern Asia,102,16,89,12630,375,13094,91.12079403
+2013,Geophysical,Earthquake,Ground movement,Pakistan,Southern Asia,8,41,175,15000,0,15175,91.12079403
+2013,Hydrological,Flood,Riverine flood,Thailand,South-Eastern Asia,38676,23,0,0,15254,15254,91.12079403
+2013,Meteorological,Storm,Tropical cyclone,China,Eastern Asia,110,7,0,21000,0,21000,91.12079403
+2013,Meteorological,Storm,Tropical cyclone,China,Eastern Asia,118,5,0,1800,50000,51800,91.12079403
+2013,Geophysical,Earthquake,Ground movement,Indonesia,South-Eastern Asia,6,48,2532,53403,0,55935,91.12079403
+2013,Hydrological,Flood,Riverine flood,Sri Lanka,Southern Asia,26063,52,0,56747,0,56747,91.12079403
+2013,Hydrological,Flood,Riverine flood,Indonesia,South-Eastern Asia,28874,17,0,58040,0,58040,91.12079403
+2013,Geophysical,Earthquake,Ground movement,India,Southern Asia,6,3,70,59280,0,59350,91.12079403
+2013,Hydrological,Flood,Riverine flood,Myanmar,South-Eastern Asia,125251,7,0,73300,0,73300,91.12079403
+2013,Hydrological,Flood,Riverine flood,Malaysia,South-Eastern Asia,106698,4,0,75000,0,75000,91.12079403
+2013,Meteorological,Storm,Tropical cyclone,Viet Nam,South-Eastern Asia,133,20,154,109600,0,109754,91.12079403
+2013,Geophysical,Earthquake,Ground movement,China,Eastern Asia,6,95,887,123000,0,123887,91.12079403
+2013,Geophysical,Earthquake,Ground movement,Pakistan,Southern Asia,8,399,599,185150,0,185749,91.12079403
+2013,Hydrological,Flood,Riverine flood,Indonesia,South-Eastern Asia,1746,34,0,248846,0,248846,91.12079403
+2013,Hydrological,Flood,Riverine flood,China,Eastern Asia,93532,43,0,255000,0,255000,91.12079403
+2013,Hydrological,Flood,Riverine flood,China,Eastern Asia,84762,55,0,300000,0,300000,91.12079403
+2013,Meteorological,Storm,Tropical cyclone,China,Eastern Asia,120,9,150,390000,0,390150,91.12079403
+2013,Meteorological,Storm,Tropical cyclone,China,Eastern Asia,160,8,0,475000,0,475000,91.12079403
+2013,Hydrological,Flood,Riverine flood,India,Southern Asia,131743,6054,4473,500000,0,504473,91.12079403
+2013,Geophysical,Earthquake,Ground movement,China,Eastern Asia,6,3,50,538000,0,538050,91.12079403
+2013,Hydrological,Flood,Riverine flood,Korea (the Democratic People's Republic of),Eastern Asia,21695,51,2,800000,48688,848690,91.12079403
+2014,Geophysical,Earthquake,Ground movement,Iran (Islamic Republic of),Southern Asia,5,1,30,300,0,330,92.59898057
+2014,Meteorological,Storm,Tropical cyclone,Japan,Eastern Asia,130,7,66,600,0,666,92.59898057
+2014,Meteorological,Storm,Tropical cyclone,Japan,Eastern Asia,290,9,94,1104,0,1198,92.59898057
+2014,Geophysical,Earthquake,Ground movement,China,Eastern Asia,6,1,22,0,2000,2022,92.59898057
+2014,Hydrological,Flood,Riverine flood,Nepal,Southern Asia,11578,16,0,2400,0,2400,92.59898057
+2014,Hydrological,Flood,Flash flood,Kazakhstan,Central Asia,213897,5,9,2700,0,2709,92.59898057
+2014,Meteorological,Storm,Tropical cyclone,Japan,Eastern Asia,110,7,60,8706,0,8766,92.59898057
+2014,Hydrological,Flood,Flash flood,Afghanistan,Southern Asia,44203,81,35,0,10000,10035,92.59898057
+2014,Meteorological,Storm,Tropical cyclone,Viet Nam,South-Eastern Asia,130,11,0,11325,0,11325,92.59898057
+2014,Geophysical,Earthquake,Ground movement,Thailand,South-Eastern Asia,6,1,23,17500,0,17523,92.59898057
+2014,Hydrological,Flood,Riverine flood,India,Southern Asia,49220,27,0,18500,0,18500,92.59898057
+2014,Hydrological,Flood,Riverine flood,Indonesia,South-Eastern Asia,35769,32,0,20000,0,20000,92.59898057
+2014,Meteorological,Storm,Tropical cyclone,Japan,Eastern Asia,160,10,96,21654,0,21750,92.59898057
+2014,Hydrological,Flood,Riverine flood,Thailand,South-Eastern Asia,334449,10,0,73260,0,73260,92.59898057
+2014,Geophysical,Earthquake,Ground movement,China,Eastern Asia,6,5,65,82200,90,82355,92.59898057
+2014,Hydrological,Flood,Flash flood,Afghanistan,Southern Asia,83722,431,100,140000,0,140100,92.59898057
+2014,Hydrological,Flood,Flash flood,China,Eastern Asia,387775,27,0,150000,0,150000,92.59898057
+2014,Geophysical,Earthquake,Ground movement,China,Eastern Asia,6,1,324,255000,0,255324,92.59898057
+2014,Hydrological,Flood,Riverine flood,China,Eastern Asia,55272,65,0,300000,0,300000,92.59898057
+2014,Meteorological,Storm,Tropical cyclone,Philippines (the),South-Eastern Asia,130,4,1,431085,0,431086,92.59898057
+2014,Meteorological,Storm,Tropical cyclone,Philippines (the),South-Eastern Asia,210,72,0,578549,0,578549,92.59898057
+2014,Hydrological,Flood,Riverine flood,India,Southern Asia,61895,95,0,0,650000,650000,92.59898057
+2014,Meteorological,Storm,Tropical cyclone,India,Southern Asia,215,53,0,920000,0,920000,92.59898057
+2015,Geophysical,Earthquake,Ground movement,Malaysia,South-Eastern Asia,6,24,10,0,0,10,92.70882199
+2015,Meteorological,Storm,Tropical cyclone,Japan,Eastern Asia,250,1,27,0,0,27,92.70882199
+2015,Geophysical,Earthquake,Ground movement,Pakistan,Southern Asia,6,3,85,0,0,85,92.70882199
+2015,Geophysical,Earthquake,Ground movement,Bangladesh,Southern Asia,8,4,200,0,0,200,92.70882199
+2015,Hydrological,Flood,Flash flood,India,Southern Asia,14179,8,0,200,0,200,92.70882199
+2015,Meteorological,Storm,Tropical cyclone,Philippines (the),South-Eastern Asia,220,2,0,523,0,523,92.70882199
+2015,Geophysical,Earthquake,Ground movement,India,Southern Asia,8,78,560,0,0,560,92.70882199
+2015,Meteorological,Storm,Tropical cyclone,Japan,Eastern Asia,185,2,56,789,0,845,92.70882199
+2015,Hydrological,Flood,Flash flood,India,Southern Asia,70288,44,25,0,2097,2122,92.70882199
+2015,Geophysical,Earthquake,Ground movement,Nepal,Southern Asia,7,138,2428,0,0,2428,92.70882199
+2015,Meteorological,Storm,Convective storm,China,Eastern Asia,139,7,37,0,2500,2537,92.70882199
+2015,Hydrological,Flood,Flash flood,Iran (Islamic Republic of),Southern Asia,776608,23,30,4000,0,4030,92.70882199
+2015,Hydrological,Flood,Flash flood,Pakistan,Southern Asia,21148,49,267,4800,0,5067,92.70882199
+2015,Geophysical,Earthquake,Ground movement,Tajikistan,Central Asia,7,2,14,7962,0,7976,92.70882199
+2015,Hydrological,Flood,Riverine flood,India,Southern Asia,43782,81,0,9000,0,9000,92.70882199
+2015,Geophysical,Earthquake,Ground movement,China,Eastern Asia,6,3,263,0,9000,9263,92.70882199
+2015,Hydrological,Flood,Flash flood,Georgia,Western Asia,13023,40,0,10320,0,10320,92.70882199
+2015,Hydrological,Flood,Flash flood,Viet Nam,South-Eastern Asia,24337,32,0,15000,0,15000,92.70882199
+2015,Geophysical,Earthquake,Ground movement,Afghanistan,Southern Asia,8,115,58080,0,34645,92725,92.70882199
+2015,Meteorological,Storm,Convective storm,India,Southern Asia,150,100,100,125000,0,125100,92.70882199
+2015,Geophysical,Earthquake,Ground movement,China,Eastern Asia,8,29,383,200000,7500,207883,92.70882199
+2015,Meteorological,Storm,Tropical cyclone,Philippines (the),South-Eastern Asia,185,46,24,287227,0,287251,92.70882199
+2015,Meteorological,Storm,Tropical cyclone,Philippines (the),South-Eastern Asia,252,40,24,318359,0,318383,92.70882199
+2015,Geophysical,Earthquake,Ground movement,Pakistan,Southern Asia,8,280,1745,366945,133900,502590,92.70882199
+2016,Geophysical,Earthquake,Ground movement,Bangladesh,Southern Asia,7,5,70,0,0,70,93.87843648
+2016,Hydrological,Flood,Flash flood,Pakistan,Southern Asia,111748,92,77,0,0,77,93.87843648
+2016,Geophysical,Earthquake,Ground movement,Pakistan,Southern Asia,7,6,42,100,0,142,93.87843648
+2016,Geophysical,Earthquake,Ground movement,Philippines (the),South-Eastern Asia,7,8,202,0,0,202,93.87843648
+2016,Hydrological,Flood,Flash flood,Pakistan,Southern Asia,31431,46,0,235,175,410,93.87843648
+2016,Geophysical,Earthquake,Ground movement,Taiwan (Province of China),Eastern Asia,6,117,525,0,0,525,93.87843648
+2016,Geophysical,Earthquake,Ground movement,Myanmar,South-Eastern Asia,7,4,2,1150,0,1152,93.87843648
+2016,Geophysical,Earthquake,Ground movement,China,Eastern Asia,5,2,0,0,5000,5000,93.87843648
+2016,Meteorological,Storm,Tropical cyclone,Japan,Eastern Asia,185,1,0,6000,0,6000,93.87843648
+2016,Geophysical,Earthquake,Ground movement,India,Southern Asia,7,8,308,10500,0,10808,93.87843648
+2016,Meteorological,Storm,Tropical cyclone,China,Eastern Asia,119,35,0,36000,0,36000,93.87843648
+2016,Geophysical,Earthquake,Ground movement,China,Eastern Asia,7,1,0,37200,0,37200,93.87843648
+2016,Meteorological,Storm,Convective storm,China,Eastern Asia,125,102,1000,45000,0,46000,93.87843648
+2016,Geophysical,Earthquake,Ground movement,Indonesia,South-Eastern Asia,7,104,857,85161,0,86018,93.87843648
+2016,Geophysical,Earthquake,Ground movement,Japan,Eastern Asia,7,9,800,120000,0,120800,93.87843648
+2016,Meteorological,Storm,Tropical cyclone,Viet Nam,South-Eastern Asia,88,1,5,191745,0,191750,93.87843648
+2016,Hydrological,Flood,Flash flood,China,Eastern Asia,383224,5,0,216000,3300,219300,93.87843648
+2016,Geophysical,Earthquake,Ground movement,Japan,Eastern Asia,7,49,1684,272763,23985,298432,93.87843648
+2016,Hydrological,Flood,Riverine flood,Viet Nam,South-Eastern Asia,63642,35,30,659390,195,659615,93.87843648
+2016,Meteorological,Storm,Tropical cyclone,Philippines (the),South-Eastern Asia,215,8,0,981154,0,981154,93.87843648
+2017,Geophysical,Earthquake,Ground movement,Iran (Islamic Republic of),Southern Asia,5,2,120,0,0,120,95.87816577
+2017,Meteorological,Storm,Tropical cyclone,Taiwan (Province of China),Eastern Asia,150,1,131,0,0,131,95.87816577
+2017,Meteorological,Storm,Tropical cyclone,Philippines (the),South-Eastern Asia,75,6,0,305,0,305,95.87816577
+2017,Meteorological,Storm,Tropical cyclone,Japan,Eastern Asia,120,2,51,1338,0,1389,95.87816577
+2017,Meteorological,Storm,Tropical cyclone,Indonesia,South-Eastern Asia,65,11,35,0,2000,2035,95.87816577
+2017,Geophysical,Earthquake,Ground movement,Iran (Islamic Republic of),Southern Asia,6,3,417,0,1845,2262,95.87816577
+2017,Hydrological,Flood,Flash flood,India,Southern Asia,50536,21,0,4000,0,4000,95.87816577
+2017,Hydrological,Flood,Riverine flood,Taiwan (Province of China),Eastern Asia,16446,5,35,4000,39,4074,95.87816577
+2017,Geophysical,Earthquake,Ground movement,China,Eastern Asia,5,8,23,0,4560,4583,95.87816577
+2017,Geophysical,Earthquake,Ground movement,Iraq,Western Asia,7,10,469,5500,0,5969,95.87816577
+2017,Geophysical,Earthquake,Ground movement,Indonesia,South-Eastern Asia,7,4,36,8859,0,8895,95.87816577
+2017,Geophysical,Earthquake,Ground movement,Philippines (the),South-Eastern Asia,7,3,448,16052,0,16500,95.87816577
+2017,Geophysical,Earthquake,Ground movement,Philippines (the),South-Eastern Asia,7,8,202,16655,0,16857,95.87816577
+2017,Meteorological,Storm,Tropical cyclone,Japan,Eastern Asia,216,8,210,18600,0,18810,95.87816577
+2017,Meteorological,Storm,Tropical cyclone,Viet Nam,South-Eastern Asia,95,9,0,21000,0,21000,95.87816577
+2017,Meteorological,Storm,Tropical cyclone,Japan,Eastern Asia,160,2,56,21600,0,21656,95.87816577
+2017,Meteorological,Storm,Tropical cyclone,India,Southern Asia,130,884,0,60000,0,60000,95.87816577
+2017,Meteorological,Storm,Tropical cyclone,Sri Lanka,Southern Asia,130,27,77,160000,0,160077,95.87816577
+2017,Meteorological,Storm,Tropical cyclone,Philippines (the),South-Eastern Asia,250,9,0,163349,0,163349,95.87816577
+2017,Geophysical,Earthquake,Ground movement,Iran (Islamic Republic of),Southern Asia,7,444,9000,200000,0,209000,95.87816577
+2017,Geophysical,Earthquake,Ground movement,China,Eastern Asia,7,29,525,217500,300,218325,95.87816577
+2017,Meteorological,Storm,Tropical cyclone,Viet Nam,South-Eastern Asia,185,14,112,691900,0,692012,95.87816577
+2018,Geophysical,Earthquake,Ground movement,Taiwan (Province of China),Eastern Asia,6,84,285,0,0,285,98.21999062
+2018,Geophysical,Earthquake,Ground movement,Indonesia,South-Eastern Asia,7,10,24,755,0,779,98.21999062
+2018,Hydrological,Flood,Flash flood,Nepal,Southern Asia,85852,15,6,1400,0,1406,98.21999062
+2018,Geophysical,Earthquake,Ground movement,Japan,Eastern Asia,7,44,680,2700,0,3380,98.21999062
+2018,Meteorological,Storm,Tropical cyclone,Japan,Eastern Asia,220,17,600,3300,0,3900,98.21999062
+2018,Hydrological,Flood,Flash flood,Iran (Islamic Republic of),Southern Asia,340197,9,145,6990,0,7135,98.21999062
+2018,Meteorological,Storm,Tropical cyclone,India,Southern Asia,100,8,0,10000,0,10000,98.21999062
+2018,Geophysical,Earthquake,Ground movement,Iran (Islamic Republic of),Southern Asia,6,2,255,10000,3000,13255,98.21999062
+2018,Geophysical,Earthquake,Ground movement,Indonesia,South-Eastern Asia,6,1,11,13800,0,13811,98.21999062
+2018,Meteorological,Storm,Tropical cyclone,Japan,Eastern Asia,216,4,200,18000,0,18200,98.21999062
+2018,Geophysical,Earthquake,Ground movement,Japan,Eastern Asia,6,5,417,20298,0,20715,98.21999062
+2018,Geophysical,Earthquake,Ground movement,Indonesia,South-Eastern Asia,6,14,135,102717,0,102852,98.21999062
+2018,Geophysical,Earthquake,Tsunami,Indonesia,South-Eastern Asia,8,4340,2531,206494,0,209025,98.21999062
+2018,Meteorological,Storm,Tropical cyclone,Philippines (the),South-Eastern Asia,210,12,2,253298,0,253300,98.21999062
+2018,Meteorological,Storm,Tropical cyclone,India,Southern Asia,126,85,200,300000,0,300200,98.21999062
+2018,Meteorological,Storm,Tropical cyclone,India,Southern Asia,120,45,0,500000,0,500000,98.21999062
+2018,Geophysical,Earthquake,Ground movement,Indonesia,South-Eastern Asia,7,564,1584,445343,70000,516927,98.21999062
+2019,Hydrological,Flood,Flash flood,Turkey,Western Asia,12361,10,0,70,0,70,100
+2019,Hydrological,Flood,Flash flood,Afghanistan,Southern Asia,133360,24,11,550,0,561,100
+2019,Geophysical,Earthquake,Ground movement,Indonesia,South-Eastern Asia,6,9,45,1250,0,1295,100
+2019,Meteorological,Storm,Tropical cyclone,Korea (the Republic of),Eastern Asia,75,15,11,1400,0,1411,100
+2019,Geophysical,Earthquake,Ground movement,Turkey,Western Asia,6,1,34,1419,0,1453,100
+2019,Geophysical,Earthquake,Ground movement,Iran (Islamic Republic of),Southern Asia,6,1,100,0,2000,2100,100
+2019,Geophysical,Earthquake,Ground movement,Indonesia,South-Eastern Asia,7,6,4,2100,0,2104,100
+2019,Geophysical,Earthquake,Ground movement,Philippines (the),South-Eastern Asia,6,9,64,2963,0,3027,100
+2019,Geophysical,Earthquake,Ground movement,Philippines (the),South-Eastern Asia,6,7,215,3068,0,3283,100
+2019,Hydrological,Flood,Flash flood,Tajikistan,Central Asia,106546,4,0,6750,0,6750,100
+2019,Meteorological,Storm,Tropical cyclone,Bangladesh,Southern Asia,200,39,45,0,10000,10045,100
+2019,Geophysical,Earthquake,Ground movement,Indonesia,South-Eastern Asia,7,8,134,5790,5880,11804,100
+2019,Geophysical,Earthquake,Ground movement,Philippines (the),South-Eastern Asia,6,25,282,15273,0,15555,100
+2019,Geophysical,Earthquake,Ground movement,China,Eastern Asia,5,1,63,15123,396,15582,100
+2019,Geophysical,Earthquake,Ground movement,China,Eastern Asia,5,1,63,15123,396,15582,100
+2019,Geophysical,Earthquake,Ground movement,Iran (Islamic Republic of),Southern Asia,6,6,584,22500,0,23084,100
+2019,Geophysical,Earthquake,Ground movement,Philippines (the),South-Eastern Asia,7,10,395,25630,0,26025,100
+2019,Geophysical,Earthquake,Ground movement,China,Eastern Asia,5,2,12,32733,27,32772,100
+2019,Meteorological,Storm,Tropical cyclone,China,Eastern Asia,175,72,0,108000,0,108000,100
+2019,Meteorological,Storm,Tropical cyclone,Japan,Eastern Asia,170,3,150,120000,0,120150,100
+2019,Geophysical,Earthquake,Ground movement,Pakistan,Southern Asia,6,39,746,129652,0,130398,100
+2019,Geophysical,Earthquake,Ground movement,China,Eastern Asia,6,13,220,244000,0,244220,100
+2019,Geophysical,Earthquake,Ground movement,Indonesia,South-Eastern Asia,7,31,179,247239,0,247418,100
+2019,Meteorological,Storm,Tropical cyclone,Bangladesh,Southern Asia,130,40,71,251435,0,251506,100
+2019,Geophysical,Earthquake,Ground movement,Philippines (the),South-Eastern Asia,7,23,417,260286,0,260703,100
+2019,Meteorological,Storm,Tropical cyclone,Japan,Eastern Asia,160,99,470,390000,0,390470,100
+2019,Geophysical,Earthquake,Ground movement,Philippines (the),South-Eastern Asia,7,14,210,394355,0,394565,100
+2019,Hydrological,Flood,Flash flood,Indonesia,South-Eastern Asia,24987,66,110,501000,0,501110,100
